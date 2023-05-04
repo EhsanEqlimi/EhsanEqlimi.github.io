@@ -18,4 +18,4 @@ menu:
 
 Doctoral Thesis
 
-Eqlimi, E. (2022). Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University).
+Eqlimi, E. (2022). [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4).
