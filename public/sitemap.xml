@@ -12,9 +12,15 @@
   </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
+    <loc>http://example.org/codes/</loc>
+  </url><url>
     <loc>http://example.org/</loc>
   </url><url>
     <loc>http://example.org/posts/</loc>
+  </url><url>
+    <loc>http://example.org/publication/</loc>
+  </url><url>
+    <loc>http://example.org/research/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
   </url>
