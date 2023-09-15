@@ -6,7 +6,7 @@ menu:
   main:
     weight: 2
 ---
-Journals
+<span style="color:blue;">Journals > </span>
 
 Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). Time course of EEG complexity reflects attentional engagement during listening to speech in noise. European Journal of Neuroscince (Accepted).
 
