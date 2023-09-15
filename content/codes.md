@@ -7,7 +7,7 @@ menu:
     weight: 3
 ---
 
-# Mixing Matrix Identification using k-SCA and S3
+# Mixing Matrix Identification using k-subspace clusering
 
 This repository contains a novel method for identifying the mixing matrix in underdetermined blind source separation (UBSS) based on k-sparse component analysis (k-SCA). The primary goal of this method is to recover the mixing matrix A when only the mixed signals X are known, with the additional constraint that the source signals S have k-sparse columns.
 
