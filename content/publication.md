@@ -19,7 +19,7 @@ menu:
 ---------------------------------------------------------------------------------------------
 --Conference proceedings papers (Full paper)--
 
-[*] Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search. in proceeding of EUSICO 2023, Helsinki, finland
+[*] Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search. in proceeding of EUSICO 2023, Helsinki, Finland (Accepted).
 
 [*] Sun P, Eqlimi E, Chua Y, Devos P, Botteldooren D (2023), Adaptive Axonal Delays in feedforward spiking neural
 networks for accurate spoken word recognition, in proceeding of ICASSP 2023, Greece.
