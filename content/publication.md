@@ -26,8 +26,8 @@ Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, 
 
 Eqlimi, E. (2022). [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4).
 
-[PDF](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG)
+[Find PDF here] (https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG)
 
 --Master Thesis--
 
-Eqlimi, E. (2012). [Analysis of Brain Networks in functional MRI using graph theory for patients with MS and NMO ](Msc in Bomedical Engineering dissertation, Tehran University)
+Eqlimi, E. (2012). [Analysis of Brain Networks in functional MRI using graph theory for patients with MS and NMO ](in Persian, Msc in Biomedical Engineering dissertation, Tehran University)
