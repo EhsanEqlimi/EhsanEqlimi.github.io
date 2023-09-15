@@ -19,9 +19,10 @@ menu:
 ---------------------------------------------------------------------------------------------
 --Conference proceedings papers (Full paper)--
 
+Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search. in proceeding of EUSICO 2023, Helsinki, finland
 
 Sun P, Eqlimi E, Chua Y, Devos P, Botteldooren D (2023), Adaptive Axonal Delays in feedforward spiking neural
-networks for accurate spoken word recognition, in proceeding of ICASSP 2023, Greece
+networks for accurate spoken word recognition, in proceeding of ICASSP 2023, Greece.
 
 2021 Eqlimi E, Bockstael A, De Coensel B, SchönwiesnerbM, Talsma D and Botteldooren D (2021), EEG correlates
 of environmental noise impact in daily life in proceeding of 13th ICBEN Congress on Noise as a Public Health
@@ -29,7 +30,7 @@ Problem, Stockholm, Sweden (ICBEN 2021), pp. 7631-7638.
 
 2021 Vonck J, De Winne J, Eqlimi E, Botteldooren D, A bio-monitoring tool for quantifying the effect of sound -
 and landscape on mental restoration in real nature and in virtual reality, in proceeding of Euronoise 2021,
-Portugal
+Portugal.
 
 2019 Eqlimi E, Botteldooren D, Bockstael A. Evaluating potential EEG-indicators for auditory attention to speech
 in realistic environmental noise, in 23rd International Congress on Acoustics (ICA), integrating 4th EAA Eu-
