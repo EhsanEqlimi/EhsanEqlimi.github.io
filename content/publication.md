@@ -6,7 +6,7 @@ menu:
   main:
     weight: 2
 ---
-<span style="color:blue;">Journals > </span>
+--Journal papers--
 
 Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). Time course of EEG complexity reflects attentional engagement during listening to speech in noise. European Journal of Neuroscince (Accepted).
 
@@ -14,20 +14,20 @@ Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Bott
 
 De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech‐in‐noise processing.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477) European Journal of Neuroscience, 54(9), 7355-7376.
 
-[A1] Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286.
+Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286.
 
 
-Conference proceedings
+--Conference proceedings papers--
 
 
 
 
-Doctoral Thesis
+--Doctoral Thesis--
 
 Eqlimi, E. (2022). [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4).
 
-Fulltext: (https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG)
+[PDF](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG)
 
-Master Thesis
+--Master Thesis--
 
-Eqlimi, E. (2012). [Analysis of Brain Networks in functional MRI using graph theory for patients with MS and NMO [Msc in Bomedical Engineering dissertation, Tehran University)
+Eqlimi, E. (2012). [Analysis of Brain Networks in functional MRI using graph theory for patients with MS and NMO ](Msc in Bomedical Engineering dissertation, Tehran University)
