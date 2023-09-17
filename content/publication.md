@@ -24,7 +24,7 @@ Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Ident
 Sun P, Eqlimi E, Chua Y, Devos P, Botteldooren D (2023), [Adaptive Axonal Delays in feedforward spiking neural
 networks for accurate spoken word recognition](https://ieeexplore.ieee.org/abstract/document/10094768?casa_token=0t6S5xo06UEAAAAA:KnC6UCXAnRo3gu6SSvPqx5MaRHSOG6M9-jvksSVh3DkxuNMdBZp5dH-OTMElXZem2hqXg5qsGw), in proceeding of ICASSP 2023, Greece. [[PDF]](https://arxiv.org/abs/2302.08607)
 
-Eqlimi E, Bockstael A, De Coensel B, SchönwiesnerbM, Talsma D and Botteldooren D (2021), [EEG correlates of environmental noise impact in daily life.] (http://icben.ethz.ch/2021/ICBEN%202021%20Papers/full_paper_28852.pdf) in proceeding of 13th ICBEN Congress on Noise as a Public Health
+Eqlimi E, Bockstael A, De Coensel B, SchönwiesnerbM, Talsma D and Botteldooren D (2021), [EEG correlates of environmental noise impact in daily life.](http://icben.ethz.ch/2021/ICBEN%202021%20Papers/full_paper_28852.pdf) in proceeding of 13th ICBEN Congress on Noise as a Public Health
 Problem, Stockholm, Sweden (ICBEN 2021), pp. 7631-7638. [[PDF]](https://www.researchgate.net/publication/355152409_EEG_correlates_of_environmental_noise_impact_in_daily_life).
 
 Vonck J, De Winne J, Eqlimi E, Botteldooren D, A bio-monitoring tool for quantifying the effect of sound -
