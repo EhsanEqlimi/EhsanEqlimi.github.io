@@ -13,7 +13,7 @@ Sparse Component Analysis (SCA) and k-Sparse Component Analysis (k-SCA) are both
 
 In other words, SCA considers a single active source at a time, while k-SCA accommodates multiple active sources, making it more flexible for different scenarios.
 
-We presnted a method for mixing matrix identification  and blind source separation that improves upon existing k-sparse source approaches, especially in noisy real-world situations with k=m-1. Explore my open-source projects and tools related to k-SCA below:
+We presnted a method for mixing matrix identification  and blind source separation that improves upon existing k-sparse source approaches, especially in noisy real-world situations with k=m-1 (m is the number of sensors). Explore my open-source projects and tools related to k-SCA below:
 
 *Mixing Matrix Identification in k-SCA*
 
