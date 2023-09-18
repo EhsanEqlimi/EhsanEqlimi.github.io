@@ -6,7 +6,7 @@ menu:
   main:
     weight: 2
 ---
---Journal papers--
+**Journal papers**
 
 Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://www.researchgate.net/publication/372325542_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise). European Journal of Neuroscince (Accepted), [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.07.11.548528v1).
 
@@ -17,7 +17,7 @@ De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Le
 Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286, [[PDF]](https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis).
 
 ---------------------------------------------------------------------------------------------
---Conference proceedings papers (Full paper)--
+**Conference proceedings papers (Full paper)**
 
 Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search. in proceeding of EUSICO 2023, Helsinki, Finland (Accepted). [[PDF]](https://arxiv.org/abs/2008.03739), [[Matlab Codes]](https://github.com/EhsanEqlimi/k-SCA-UBI-Eusipco2023).
 
@@ -59,10 +59,11 @@ Mediterranean Conference on Medical and Biological Engineering and Computing, 20
 
 
 ---------------------------------------------------------------------------------------------
---Doctoral Thesis--
+**Doctoral Thesis**
 
 Eqlimi, E. (2022). [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4), [[PDF]](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG).
 
---Master Thesis--
+**Master Thesis**
 
 Eqlimi, E. (2012). Analysis of Brain Networks in functional MRI using graph theory for patients with MS and NMO, (in Persian, Msc in Biomedical Engineering dissertation, Tehran University).
+
