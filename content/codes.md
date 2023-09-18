@@ -7,18 +7,18 @@ menu:
     weight: 3
 ---
 
-# k-Sparse Component Analysis 
+**k-Sparse Component Analysis** 
 
 Welcome to the k-Sparse Component Analysis (k-SCA) section of my website. Explore my open-source projects and tools related to k-SCA below:
 
-## Mixing Matrix Identification in k-SCA
+**Mixing Matrix Identification in k-SCA**
 
-- **Repository:** [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
+- Repository: [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
 
 
 ## Blind Source Separation in k-SCA
 
-- **Repository:** [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
+- Repository: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
 
 
 ---
