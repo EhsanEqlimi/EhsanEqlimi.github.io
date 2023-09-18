@@ -7,7 +7,7 @@ menu:
     weight: 3
 ---
 
-**k-Sparse Component Analysis** 
+**k-Sparse Component Analysis via k-subsapce clustering** 
 
 Sparse Component Analysis (SCA) and k-Sparse Component Analysis (k-SCA) are both techniques used in signal processing and source separation. The main difference between SCA and k-SCA  lies in their assumptions about the number of active sources: SCA assumes one active source at each time instant, whereas k-SCA allows for varying numbers of active sources represented by 'k'.
 
