@@ -1,5 +1,5 @@
 ---
-title: NeuroDiary-My EEG Safari
+title: My EEG Diary
 draft: false
 description: Coming soon!
 type: page
