@@ -16,7 +16,7 @@ Welcome to the k-Sparse Component Analysis (k-SCA) section of my website. Explor
 - Repository: [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
 
 
-## Blind Source Separation in k-SCA
+**Blind Source Separation in k-SCA**
 
 - Repository: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
 
