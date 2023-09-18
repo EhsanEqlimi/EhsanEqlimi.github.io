@@ -14,12 +14,12 @@ Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Bott
 
 De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech‐in‐noise processing.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477) European Journal of Neuroscience, 54(9), 7355-7376. [[PDF]](file:///C:/Users/eeqlimi/Downloads/SalientEvent_EEG_Project/Papers/EurJofNeuroscience-2021-DeGroote-Parkinsonsdiseaseaffectstheneuralalphaoscillationsassociatedwith.pdf)
 
-Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286. [[PDF]].(https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis)
+Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286. [[PDF]](https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis)
 
 ---------------------------------------------------------------------------------------------
 --Conference proceedings papers (Full paper)--
 
-Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search. in proceeding of EUSICO 2023, Helsinki, Finland (Accepted). [[PDF]](https://arxiv.org/abs/2008.03739), [[Codes]](https://github.com/EhsanEqlimi/k-SCA-UBI-Eusipco2023).
+Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search. in proceeding of EUSICO 2023, Helsinki, Finland (Accepted). [[PDF]](https://arxiv.org/abs/2008.03739), [[Matlab Codes]](https://github.com/EhsanEqlimi/k-SCA-UBI-Eusipco2023).
 
 Sun P, Eqlimi E, Chua Y, Devos P, Botteldooren D (2023), [Adaptive Axonal Delays in feedforward spiking neural
 networks for accurate spoken word recognition](https://ieeexplore.ieee.org/abstract/document/10094768?casa_token=0t6S5xo06UEAAAAA:KnC6UCXAnRo3gu6SSvPqx5MaRHSOG6M9-jvksSVh3DkxuNMdBZp5dH-OTMElXZem2hqXg5qsGw), in proceeding of ICASSP 2023, Greece. [[PDF]](https://arxiv.org/abs/2302.08607)
@@ -43,6 +43,14 @@ Aarabi MH, Kamalian A, Mohajer B, Shirin Shandiz M, Eqlimi E et al., [A statisti
 connectome of Parkinson Disease in elderly people using Network Based Statistics](https://ieeexplore.ieee.org/document/7319348), in 2015 37th Annual In-
 ternational Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Milan, Italy, 2015,
 pp. 4310-4313. [[PDF]](https://www.researchgate.net/publication/290391980_A_statistical_approach_in_human_brain_connectome_of_Parkinson_Disease_in_elderly_people_using_Network_Based_Statistics).
+
+
+Eqlimi E, Makkiabadi B, [An efficient k-SCA based underdetermined channel identification algorithm for online
+applications](https://ieeexplore.ieee.org/abstract/document/7362867?casa_token=A1P8yKlxrwsAAAAA:x-5J2Hoa4ZU1rb0Yv9dPWXKfRDlvLXSvavZsGhqH_D3mhaijmBB8L5bpsgVgG5Vh_uPnjoeoTjU), in 23rd European Signal Processing Conference (EUSIPCO) (IEEE, 2015), pp. 2661–2665. [[PDF]](https://www.researchgate.net/publication/289691205_An_efficient_K-SCA_based_unerdetermined_channel_identification_algorithm_for_online_applications), [[Matlab Codes V1]](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V1), [[Matlab Codes V2]](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
+
+
+Eqlimi E, Makkiabadi B, [Multiple sparse component analysis based on subspace selective search algorithm](https://ieeexplore.ieee.org/document/7146277),
+in 2015 23rd Iranian Conference on Electrical Engineering (ICEE) (IEEE, 2015), pp. 550–554. [[PDF]](https://www.researchgate.net/publication/279999865_Multiple_sparse_component_analysis_based_on_subspace_selective_search_algorithm), [[Matlab Codes]](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2).
 
 
 Eqlimi E, Riyahi Alam N, Sahraian M, Eshaghi A, Riyahi Alam S, Ghanaati H, Firouznia K, Karami E, [Resting
