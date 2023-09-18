@@ -11,19 +11,19 @@ menu:
 
  Explore my open-source projects and tools related to k-SCA below:
 
-**Mixing Matrix Identification in k-SCA**
+*Mixing Matrix Identification in k-SCA**
 
 - Repository: [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
 
 
-**Blind Source Separation in k-SCA**
+*Blind Source Separation in k-SCA**
 
 - Repository: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
 
-
+---
 **EEG microstste recurrence** 
 
-
+---
 **EEG micro-subspaces** 
 
 
