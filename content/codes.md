@@ -9,20 +9,18 @@ menu:
 
 # k-Sparse Component Analysis (k-SCA)
 
-Welcome to the k-Sparse Component Analysis (k-SCA) section of our website. Here, you can find information and resources related to our k-SCA projects and tools.
+Welcome to the k-Sparse Component Analysis (k-SCA) section of our website. Explore our open-source projects and tools related to k-SCA below:
 
 ## Mixing Matrix Identification
 
-[Mixing matrix identification](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2) is a crucial component of k-SCA. We have developed a repository where you can explore our work in this area. Feel free to visit the GitHub repository to access the code and documentation.
-
-[Visit Mixing Matrix Identification Repository](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
+- **Repository:** [Mixing Matrix Identification](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
+- **Description:** Discover our work on mixing matrix identification, a fundamental aspect of k-SCA. Access the code and documentation to learn more.
 
 ## Blind Source Separation based on k-SCA
 
-We also offer a solution for Blind Source Separation based on k-SCA. If you're interested in this aspect of k-SCA, you can explore our project on GitHub. It includes code and detailed information to help you get started.
-
-[Visit Blind Source Separation Repository](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
+- **Repository:** [Blind Source Separation](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
+- **Description:** Explore our Blind Source Separation solution based on k-SCA principles. Visit the repository for code and detailed information.
 
 ---
 
-Feel free to reach out if you have any questions or need further assistance with our k-SCA projects. We're excited to share our work with you!
+For inquiries or assistance, please don't hesitate to [contact us](mailto:your@email.com). We're here to help!
