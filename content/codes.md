@@ -23,4 +23,4 @@ Welcome to the k-Sparse Component Analysis (k-SCA) section of my website. Explor
 
 ---
 
-For inquiries or assistance, please don't hesitate to [contact me](mailto:ehsan.eqlimi@outlook.com). We're here to help!
+For inquiries or assistance, please don't hesitate to [contact me](mailto:ehsan.eqlimi@outlook.com). 
