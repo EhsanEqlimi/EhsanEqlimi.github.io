@@ -9,14 +9,18 @@ menu:
 
 **k-Sparse Component Analysis** 
 
- Explore my open-source projects and tools related to k-SCA below:
+Sparse Component Analysis (SCA) and $k$-Sparse Component Analysis ($k$-SCA) are both techniques used in signal processing and source separation. The main difference between SCA and k-SCA  lies in their assumptions about the number of active sources: SCA assumes one active source at each time instant. k-SCA allows for varying numbers of active sources represented by 'k'.
 
-*Mixing Matrix Identification in k-SCA**
+In summary, SCA considers a single active source at a time, while k-SCA accommodates multiple active sources, making it more flexible for different scenarios.
+
+We presnted a method for underdetermined blind identification (UBI) and underdetermined source recovery (USR) that improves upon existing $k$-sparse source approaches, especially in noisy real-world situations with $k=m-1$. Explore my open-source projects and tools related to k-SCA below:
+
+*Mixing Matrix Identification in k-SCA*
 
 - Repository: [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
 
 
-*Blind Source Separation in k-SCA**
+*Blind Source Separation in k-SCA*
 
 - Repository: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
 
