@@ -8,13 +8,13 @@ menu:
 ---
 --Journal papers--
 
-Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). Time course of EEG complexity reflects attentional engagement during listening to speech in noise. European Journal of Neuroscince (Accepted). [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.07.11.548528v1)
+Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://www.researchgate.net/publication/372325542_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise). European Journal of Neuroscince (Accepted). [[Preprint]](https://www.biorxiv.org/content/10.1101/2023.07.11.548528v1)
 
 Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2020). [EEG correlates of learning from speech presented in environmental noise.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full) Frontiers in Psychology, 11, 1850. [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full)
 
 De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech‐in‐noise processing.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477) European Journal of Neuroscience, 54(9), 7355-7376. [[PDF]](file:///C:/Users/eeqlimi/Downloads/SalientEvent_EEG_Project/Papers/EurJofNeuroscience-2021-DeGroote-Parkinsonsdiseaseaffectstheneuralalphaoscillationsassociatedwith.pdf)
 
-Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286. [[PDF]](https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis)
+Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286. [[PDF]].(https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis)
 
 ---------------------------------------------------------------------------------------------
 --Conference proceedings papers (Full paper)--
@@ -39,16 +39,16 @@ Fotouhi A, Eqlimi E, Makkiabadi B, [Adaptive localization of moving EEG sources 
 tensor factorization](https://ieeexplore.ieee.org/abstract/document/8076023?casa_token=vM0MjpAxckAAAAAA:OlwpZwIRrFl0gRC4RbJ-DcbDOrUjQ8mZQqli2ghDSLjBdY4RXGQb-Uo6hTrwR4ahfl-8G4WNbXs), in 40th International Conference on Telecommunications and Signal Processing (TSP),
 IEEE, 2017, pp. 439-443.
 
-Aarabi MH, Kamalian A, Mohajer B, Shirin Shandiz M, Eqlimi E et al., A statistical approach in human brain
-connectome of Parkinson Disease in elderly people using Network Based Statistics, in 2015 37th Annual In-
+Aarabi MH, Kamalian A, Mohajer B, Shirin Shandiz M, Eqlimi E et al., [A statistical approach in human brain
+connectome of Parkinson Disease in elderly people using Network Based Statistics](https://ieeexplore.ieee.org/document/7319348), in 2015 37th Annual In-
 ternational Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Milan, Italy, 2015,
-pp. 4310-4313.
+pp. 4310-4313. [[PDF]](https://www.researchgate.net/publication/290391980_A_statistical_approach_in_human_brain_connectome_of_Parkinson_Disease_in_elderly_people_using_Network_Based_Statistics).
 
 
-Eqlimi E, Riyahi Alam N, Sahraian M, Eshaghi A, Riyahi Alam S, Ghanaati H, Firouznia K, Karami E, Resting
-state functional connectivity analysis of multiple sclerosis and neuromyelitis optica using graph theory, XIII
+Eqlimi E, Riyahi Alam N, Sahraian M, Eshaghi A, Riyahi Alam S, Ghanaati H, Firouznia K, Karami E, [Resting
+state functional connectivity analysis of multiple sclerosis and neuromyelitis optica using graph theory](https://link.springer.com/chapter/10.1007/978-3-319-00846-2_51), XIII
 Mediterranean Conference on Medical and Biological Engineering and Computing, 2013 (41) (2013), pp.
-206-209
+206-209. [[PDF]](https://www.researchgate.net/publication/258242195_Resting_State_Functional_Connectivity_Analysis_of_Multiple_Sclerosis_and_Neuromyelitis_Optica_Using_Graph_Theory).
 
 
 ---------------------------------------------------------------------------------------------
