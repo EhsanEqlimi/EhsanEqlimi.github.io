@@ -65,4 +65,4 @@ Eqlimi, E. (2022). [Exploring neural markers modulated by learning from speech i
 
 --Master Thesis--
 
-Eqlimi, E. (2012). [Analysis of Brain Networks in functional MRI using graph theory for patients with MS and NMO ](in Persian, Msc in Biomedical Engineering dissertation, Tehran University).
+Eqlimi, E. (2012). Analysis of Brain Networks in functional MRI using graph theory for patients with MS and NMO, (in Persian, Msc in Biomedical Engineering dissertation, Tehran University).
