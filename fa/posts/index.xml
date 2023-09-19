@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on امیر هادیفر</title>
+    <link>https://hadifar.github.io/fa/posts/</link>
+    <description>Recent content in Posts on امیر هادیفر</description>
+    <image>
+      <url>https://hadifar.github.io/papermod-cover.png</url>
+      <link>https://hadifar.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://hadifar.github.io/fa/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>لغو تعهد، آزادسازی مدرک تحصیلی، ترجمه و لگالایز کردن</title>
+      <link>https://hadifar.github.io/fa/posts/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadifar.github.io/fa/posts/first/</guid>
+      <description>اطلاعاتی که دراین پست میخونید ممکن هست یکم قدیمی باشه چون برای زمانی هست که من اپلای میکردم.
+یکی از مواردی که در این چند وقت درگیرش بودم، آزاد‌سازی مدرک و لغو تعهد خدمت برای دانشگاه بود. طبق قانون وزارت علوم کسایی که در دانشگاه‌های دولتی (روزانه) درس می‌خوانند باید به ازای سال‌های تحصیل به کشور خدمت کنند. تعداد سال‌های خدمت در گواهی موقت شما خورده است که به مقطع شما (کارشناسی، ارشد یا دکتری) و نوع پذیرش شما در کنکور کارشناسی (منطقه ۱، ۲ و ۳) بستگی دارد.</description>
+    </item>
+    
+    <item>
+      <title>چیزهایی که راجع بلژیک بد نیست بدانیم!</title>
+      <link>https://hadifar.github.io/fa/posts/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hadifar.github.io/fa/posts/second/</guid>
+      <description>.چیزهایی که در اینجا مینویسم صرفا تجربیات شخصی هست و اگر مفید نیست میتونید اون رو نادیده بگیرید
+سعی میکنم به صورت سوال جواب این پست رو بنویسم و کم کم اون رو گسترش بدم. شما هم اگر سوال داشتیید میتونید ایمیل بزنید و اگر بلد بودم اینجا اضافه کنم. این سوال جوابها معمولا چیزهایی هست که برای خودم یا اطرافیانم اتفاق افتاده و میتونه به مابقی افراد هم کمک کنه.</description>
+    </item>
+    
+  </channel>
+</rss>
