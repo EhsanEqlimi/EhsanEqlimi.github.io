@@ -1,6 +1,7 @@
 ---
 title: "Neurosignalist"
 draft: false
+type: page
 weight: 1
 ---
 I'm a research scientist specializing in exploring the fundamental aspects of brain oscillations, EEG signals, and their underlying cognitive processes, particularly in auditory perception.
