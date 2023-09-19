@@ -19,7 +19,7 @@ We presnted a method for mixing matrix identification  and blind source separati
 
 - Repository 1: [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)
 - This repository is well-suited for addressing small-scale problems with a high SNR. Our proposed algorithm is based on on selective subspace search (S3) and demonstrates effectiveness in real-time scenarios.
-- Papers related to this repository: [[k-SCA using S3]](https://ieeexplore.ieee.org/abstract/document/7146277), [[k-SCA for online aplications]](https://ieeexplore.ieee.org/abstract/document/7362867)
+- Papers related to this repository: [[k-SCA using S3]](https://ieeexplore.ieee.org/abstract/document/7146277), [[k-SCA for online applications]](https://ieeexplore.ieee.org/abstract/document/7362867)
 
 
 
