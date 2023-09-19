@@ -27,11 +27,12 @@ We presnted a method for mixing matrix identification  and blind source separati
 
 -- This repository excels in addressing small-scale problems, showcasing robustness to noise, and consistently outperforming state-of-the-art k-subspace clustering methods. Our proposed method is based on the Gram-Schmidt process and random sample consensus (RANSAC).
 
- --Paper related to this repository: [[RANSAC-driven Orthogonal Subspace Search]](https://arxiv.org/abs/2008.03739).
+-- Paper related to this repository: [[RANSAC-driven Orthogonal Subspace Search]](https://arxiv.org/abs/2008.03739).
 
 *Blind source separation in k-SCA*
 
 - Repository: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
+
 -- Paper related to this repository: [[EigMEM-USR]](https://link.springer.com/article/10.1007/s00034-018-0910-9).
 
 ---
