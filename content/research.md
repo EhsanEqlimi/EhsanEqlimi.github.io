@@ -10,4 +10,4 @@ menu:
 
  
 **Microsubspaces: k-subspace clustering approach for EEG microstate
-analysis **
+analysis**
