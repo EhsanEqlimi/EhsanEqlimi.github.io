@@ -31,7 +31,7 @@ We presnted a method for mixing matrix identification  and blind source separati
 
 *Blind source separation in k-SCA*
 
-- Repository: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
+- Repository 3: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)
 
 -- Paper related to this repository: [[EigMEM-USR]](https://link.springer.com/article/10.1007/s00034-018-0910-9).
 
