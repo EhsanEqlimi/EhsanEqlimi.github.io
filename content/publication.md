@@ -12,14 +12,14 @@ Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Bott
 
 Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2020). [EEG correlates of learning from speech presented in environmental noise.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full) Frontiers in Psychology, 11, 1850, [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full).
 
-De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech‐in‐noise processing.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477) European Journal of Neuroscience, 54(9), 7355-7376., [[PDF]](file:///C:/Users/eeqlimi/Downloads/SalientEvent_EEG_Project/Papers/EurJofNeuroscience-2021-DeGroote-Parkinsonsdiseaseaffectstheneuralalphaoscillationsassociatedwith.pdf).
+De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech‐in‐noise processing.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477) European Journal of Neuroscience, 54(9), 7355-7376., [[PDF]](https://www.researchgate.net/publication/354776930_Parkinson's_disease_affects_the_neural_alpha_oscillations_associated_with_speech-in-noise_processing).
 
 Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286, [[PDF]](https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis).
 
 ---------------------------------------------------------------------------------------------
 **Conference proceedings papers (Full paper)**
 
-Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search. in proceeding of EUSICO 2023, Helsinki, Finland (Accepted). [[PDF]](https://arxiv.org/abs/2008.03739), [[Matlab Codes]](https://github.com/EhsanEqlimi/k-SCA-UBI-Eusipco2023).
+Eqlimi E, Makkiabadi B, Kouti M, Fotouhi A, Sanei S. [Underdetermined Blind Identification via k-Sparse Component Analysis: RANSAC-driven Orthogonal Subspace Search.] (https://ieeexplore.ieee.org/abstract/document/10289934) in proceeding of EUSICO 2023, Helsinki, Finland. [[PDF]](https://arxiv.org/abs/2008.03739), [[Matlab Codes]](https://github.com/EhsanEqlimi/k-SCA-UBI-Eusipco2023).
 
 Sun P, Eqlimi E, Chua Y, Devos P, Botteldooren D (2023), [Adaptive Axonal Delays in feedforward spiking neural
 networks for accurate spoken word recognition](https://ieeexplore.ieee.org/abstract/document/10094768?casa_token=0t6S5xo06UEAAAAA:KnC6UCXAnRo3gu6SSvPqx5MaRHSOG6M9-jvksSVh3DkxuNMdBZp5dH-OTMElXZem2hqXg5qsGw), in proceeding of ICASSP 2023, Greece, [[PDF]](https://arxiv.org/abs/2302.08607).
