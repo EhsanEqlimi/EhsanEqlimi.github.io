@@ -3,7 +3,8 @@ title: "PhD"
 draft: false
 weight: 3
 ---
-My Ph.D. research unveiled two main findings. First, I identified that distinct oscilations in the brain correlate with attentional engagement in speech perception, as reflected in their varied frequency features. Second, I developed a method to qunatify attentional engagemnet during speech listening by tracking the evolving complexity of EEG over time. For a more in-depth exploration, feel free to access my Ph.D. thesis Eqlimi, E. (2022). [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4), [[PDF]](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG).
+My Ph.D. research unveiled two main findings. First, I identified that distinct oscilations in the brain correlate with attentional engagement in speech perception, as reflected in their varied frequency features. Second, I developed a method to qunatify attentional engagemnet during speech listening by tracking the evolving complexity of EEG over time. For a more in-depth exploration, feel free to access my Ph.D. thesis:
+ [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4), [[PDF]](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG).
 
 
 For further exploration, please refer to the papers below: 
