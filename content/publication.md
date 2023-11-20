@@ -8,7 +8,7 @@ menu:
 ---
 **Journal papers**
 
-Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16159). European Journal of Neuroscince, [[PDF]](https://www.researchgate.net/publication/374638222_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise).
+ Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16159). European Journal of Neuroscince, [[PDF]](https://www.researchgate.net/publication/374638222_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise).
 
 Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2020). [EEG correlates of learning from speech presented in environmental noise.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full) Frontiers in Psychology, 11, 1850, [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full).
 
