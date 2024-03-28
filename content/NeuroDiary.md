@@ -1,5 +1,5 @@
 ---
-title: My EEG Diary
+title: Personal Blog (in Persian)
 draft: false
 description: Coming soon!
 type: page
