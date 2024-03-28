@@ -1,9 +1,11 @@
 baseURL = 'http://example.org/'
+languageCode = 'en-us'
 [languages]
   [languages.en]
     title = "My Website"
     weight = 1
   [languages.fa]
-    title = "وب‌سایت من"
+    title = "سایت من"
     weight = 2
+title = 'Ehsan Eqlimi'
 theme = 'PaperMod'
