@@ -1,7 +1,9 @@
+@ -1,7 +1,25 @@
 ---
-title: "پست فارسی من"
-date: 2024-03-28
+title: Personal Blog (in Persian)
 draft: false
----
-
-به وب‌سایت من خوش آمدید! این یک پست تست برای زبان فارسی است.
+description: Coming soon!
+description: کوانتومی فکر کردن
+type: page
+menu:
+  main:
