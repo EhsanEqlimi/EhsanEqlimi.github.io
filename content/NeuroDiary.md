@@ -1,5 +1,5 @@
 ---
-title: Personal Blog (in Persian)
+title: - بلاگPersonal Blog (in Persian)
 draft: false
 description: کوانتومی فکر کردن
 
