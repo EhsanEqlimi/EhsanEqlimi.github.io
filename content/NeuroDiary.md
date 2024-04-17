@@ -1,4 +1,3 @@
-@ -1,7 +1,25 @@
 ---
 title: Personal Blog (in Persian)
 draft: false
