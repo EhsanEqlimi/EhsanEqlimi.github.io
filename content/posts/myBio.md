@@ -2,6 +2,8 @@
 title: My bio
 draft: false
 weight: 1
+summaryLength = 5 # Set to the desired number of lines
+
 ---
 
 My name is Ehsan. It is pronounced as [eh sa:n] in IPA and written as احسان in Persian/Farsi. Wrong pronunciation that I have heard for my name: [i:za:n], and wrong spelling: Eshan!
