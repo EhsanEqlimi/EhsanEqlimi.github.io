@@ -4,7 +4,7 @@ draft: false
 type: page
 menu:
   main:
-    weight: 4
+    weight: 5
 ---
 **Attention and memory encoding in shaping the complexity of brain states**
 
