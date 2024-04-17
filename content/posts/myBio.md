@@ -1,5 +1,5 @@
 ---
-title: "Neurosignalist"
+title: My bio
 draft: false
 weight: 1
 ---
