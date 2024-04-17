@@ -2,3 +2,15 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Ehsan Eqlimi'
 theme = 'PaperMod'
+
+# Enable multi-language support
+defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    title = "Ehsan Eqlimi"
+    languageName = "English"
+    weight = 1
+  [languages.fa]
+    title = "احسان اقلیمی"
+    languageName = "فارسی"
+    weight = 2
