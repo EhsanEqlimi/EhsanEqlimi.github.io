@@ -1,5 +1,5 @@
 ---
-title: My bio
+title: Neurosignalist
 draft: false
 weight: 1
 # summaryLength: 10 # Set to the desired number of lines
