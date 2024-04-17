@@ -14,7 +14,7 @@ Ehsan is a Persian name meaning "benefaction." Originally, it comes from Arabic,
 
 My last name is Eqlimi. It is pronouced as /eqliːˈmiː/ and /eɣliːˈmiː/ and written as اقلیمی in Persian/Farsi. The 'q' sound is similar to 'r' in French or 'gh/غ' in Arabiز. /q/ and /ɣ/ in modern Persian is combianed and more proncation is like /ɣ/ rather than /q/. 
 
-Just as myfirst name is related to the sun :), your last name is associated with weather or climate. The Persian word "اقلیم" (Eqlim), "اقلیم" (Eqlim) in Persian is an Arabized version of the Greek word "κλίμα" (klima), which means "climate" or "region". 
+Just as my first name is related to the sun :), your last name is associated with weather or climate. The Persian word "اقلیم" (Eqlim), "اقلیم" (Eqlim) in Persian is an Arabized version of the Greek word "κλίμα" (klima), which means "climate" or "region". 
 
 
 
