@@ -2,7 +2,7 @@
 title: My bio
 draft: false
 weight: 1
-summaryLength = 5 # Set to the desired number of lines
+summaryLength = 10 # Set to the desired number of lines
 
 ---
 
