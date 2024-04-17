@@ -14,7 +14,7 @@ Wrong pronunciation that I have heard for my name: [i:za:n], and wrong spelling:
 
 Ehsan is a Persian name meaning "benefaction." Originally, it comes from Arabic, and there are different meanings and applications, as well as pronunciations, of this name in Persian and Arabic. The equivalent in pure Persian for my name, Ehsan, is Niki (which means "to do beautiful things"). 
 
-My famyli name is Eqlimi. It is pronouced as /eqliːˈmiː/ and written as اقلیمی in Persian/Farsi. 
+My last name is Eqlimi. It is pronouced as /eqliːˈmiː/ and written as اقلیمی in Persian/Farsi. 
 
 
 
