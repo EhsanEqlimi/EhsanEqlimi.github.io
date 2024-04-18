@@ -12,7 +12,7 @@ My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persi
 
 Ehsan means "benefaction" in Persian, meaning "to do beautiful things." My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, written as اقلیمی. The 'q' sound is like 'r' in French or 'gh/غ' in Arabic, and in modern Persian, it's closer to /ɣ/ than /q/.
 
-Like my first name, associated with the sun, my last name, Eqlimi, relates to weather or climate. "اقلیم" (Eqlim) in Persian is derived from the Greek "κλίμα" (klima), meaning "climate" or "regio
+Like my first name, associated with the sun, my last name, Eqlimi, relates to weather or climate. "اقلیم" (Eqlim) in Persian is derived from the Greek "κλίμα" (klima), meaning "climate" or "region".
 
 
 
