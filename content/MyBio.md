@@ -8,7 +8,7 @@ menu:
 ---
 **About my name**
 
-MMy name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It's often mispronounced as [i:za:n] and misspelled as Eshan. Think of it as 'eh + sun,' with the emphasis on 'sun,' so I'm sometimes called 'Ehsun' for a sunnier pronunciation :)
+My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It's often mispronounced as [i:za:n] and misspelled as Eshan. Think of it as 'eh + sun,' with the emphasis on 'sun,' so I'm sometimes called 'Ehsun' for a sunnier pronunciation :)
 
 Ehsan means "benefaction" in Persian, equivalent to Niki, meaning "to do beautiful things." My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, written as اقلیمی. The 'q' sound is like 'r' in French or 'gh/غ' in Arabic, and in modern Persian, it's closer to /ɣ/ than /q/.
 
