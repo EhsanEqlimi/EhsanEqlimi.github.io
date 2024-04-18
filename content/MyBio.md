@@ -8,13 +8,11 @@ menu:
 ---
 **About my name**
 
-My name is Ehsan. It is pronounced as /eh sa:n/ in IPA and written as احسان in Persian/Farsi. The 'E' in Ehsan is closer to /e/ as in 'say' rather than /ɛ/ as in 'bed'. Wrong pronunciation that I have heard for my name: [i:za:n], and wrong spelling: Eshan! There's a sunny treatment to pronouncing my name: it's 'eh + sun,' with the focus on 'sun.' So, I'm often known as 'Ehsun,' bringing a little sunshine to the pronunciation :)
+MMy name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It's often mispronounced as [i:za:n] and misspelled as Eshan. Think of it as 'eh + sun,' with the emphasis on 'sun,' so I'm sometimes called 'Ehsun' for a sunnier pronunciation :)
 
-Ehsan is a Persian name meaning "benefaction." Originally, it comes from Arabic, and there are different meanings and applications, as well as pronunciations, of Ehsan in Persian and Arabic. The equivalent in pure Persian for my name, Ehsan, is Niki (which means "to do beautiful things"). 
+Ehsan means "benefaction" in Persian, equivalent to Niki, meaning "to do beautiful things." My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, written as اقلیمی. The 'q' sound is like 'r' in French or 'gh/غ' in Arabic, and in modern Persian, it's closer to /ɣ/ than /q/.
 
-My last name is Eqlimi. It is pronouced as /eqliːˈmiː/ and /eɣliːˈmiː/ and written as اقلیمی in Persian/Farsi. The 'q' sound is similar to 'r' in French or 'gh/غ' in Arabic. /q/ and /ɣ/ in modern Persian is combianed and more proncation is like /ɣ/ rather than /q/. 
-
-Just as my first name is related to the sun :), my last name is associated with weather or climate. The Persian word "اقلیم" (Eqlim), "اقلیم" (Eqlim) in Persian is an Arabized version of the Greek word "κλίμα" (klima), which means "climate" or "region". 
+Like my first name, associated with the sun, my last name, Eqlimi, relates to weather or climate. "اقلیم" (Eqlim) in Persian is derived from the Greek "κλίμα" (klima), meaning "climate" or "regio
 
 
 
