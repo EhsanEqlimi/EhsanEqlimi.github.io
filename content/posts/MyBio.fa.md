@@ -1,6 +1,6 @@
 
 ---
-title: "!خوش آمدید"
+title: "سلام"
 date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
