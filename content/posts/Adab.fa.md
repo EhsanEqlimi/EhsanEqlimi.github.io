@@ -4,6 +4,7 @@ date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
 tags: ["قلسفه ی اخلاق"]
+weight: 2
 language: "fa"  # Language tag for Farsi content
 ---
 
