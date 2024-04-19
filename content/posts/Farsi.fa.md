@@ -3,7 +3,7 @@ title: "درباره یِ ادَب کردنِ ادَب"
 date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
-tags: ["Tag"]
+tags: ["قلسفه ی اخلاق"]
 language: "fa"  # Language tag for Farsi content
 ---
 
