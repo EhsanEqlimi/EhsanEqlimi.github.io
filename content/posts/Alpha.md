@@ -6,14 +6,8 @@ weight: 2
 
 ---
 
-Alpha Oscillations During Speech Information Encoding
 
-Ehsan Eqlimi
-
-Keywords: EEG, alpha oscillations, speech comprehension, complexity, auditory attention.
-*Corresponding author: ehsan.eqlimi@outlook.com
-
-1 Introduction
+** Introduction **
 
 While the prominence of brain alpha oscillations continues, ongoing advances diversify our un-
 derstanding of their functional roles, moving away from a unified perspective. This diversity is
@@ -45,7 +39,8 @@ To facilitate further exploration and address this gap, in this study, conducted
 investigate alpha oscillation modulations during attentive listening to 5-minute speeches with and
 without multitalker background noise. We also explore alpha oscillations’ predictive role in mem-
 ory and retention performance.
-2 Methods
+
+** Methods **
 
 The analyzed data are part of our extensive study on neural markers for attentive/inattentive lis-
 tening in noisy environments using single-trial EEG.1 Involving 23 English-speaking listeners, the
@@ -65,7 +60,9 @@ speeches. We used a generalized additive mixed model (GAMM) to compare the time 
 across different speech topics and assess the impact of background noise. Finally, we employed
 nonparametric cluster-based permutation testing across channels to assess channel influence on
 alpha manifestation.
-3 Results
+
+** Results **
+
 Although the behavioral analysis reveals a pronounced decline in exam scores when background
 noise is present compared to the absence of background noise, there was no significant difference
 in alpha peak power and frequency between conditions. However, LRTC of alpha oscillations
@@ -87,12 +84,13 @@ Analyzing the modulated alpha changes over time, measured by LRTC, inspired us t
 ine the evolving alpha power pattern between conditions. Although no significant difference was
 found in average alpha power, temporal progression analysis using GAMM uncovered a significant
 increase in noisy conditions in the second part of the trend (after the first minute).
-4 Conclusion and Discussion
+
+** Conclusion and Discussion **
+
 The presented results support the role of alpha oscillations in top-down mechanisms when attend-
 ing and listening to speech. Although the mean alpha peak power and frequency roles have been
 demonstrated in numerous studies on selective auditory attention and working memory tasks, in
 our study, we did not observe any influence. Instead, we find that the temporal dynamics of alpha
-2
 are much more critical, especially in the presence of a distractor in the background, leading to an
 increase in the alpha LRTC. Increased alpha LRTC, signifying persistent temporal patterns in neu-
 ral activity, reflects heightened cognitive effort for tasks like focused attention. Simultaneously, it
@@ -103,14 +101,19 @@ part, there is an increase in alpha, particularly when multitalker noise is pres
 is that the first stage involves sensory processes and information gathering, while the second stage
 reflects increased effort for higher-level cognitive engagement, including mnemonic binding and
 memory encoding.
-References
+
+** References **
+
 1 E. Eqlimi. Exploring neural markers modulated by learning from speech in environmental
 noise using single-trial EEG. PhD thesis, Ghent University, 2022.
+
 2 S. Haegens, V. N ́acher, R. Luna, R. Romo, and O. Jensen. α-oscillations in the monkey sen-
 sorimotor network influence discrimination performance by rhythmical inhibition of neuronal
 spiking. Proceedings of the National Academy of Sciences, 108(48):19377–19382, 2011.
+
 3 W. Klimesch, M. Doppelmayr, J. Schwaiger, P. Auinger, and T. Winkler. Paradoxical’alpha
 synchronization in a memory task. Cognitive Brain Research, 7(4):493–501, 1999.
+
 4 C. Peylo, Y. Hilla, and P. Sauseng. Cause or consequence? alpha oscillations in visuospatial
 attention. Trends in Neurosciences, 44(9):705–713, 2021.
 5 R. VanRullen. Perceptual cycles. Trends in cognitive sciences, 20(10):723–735, 2016.
