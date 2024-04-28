@@ -52,8 +52,7 @@ Although the behavioral analysis reveals a pronounced decline in exam scores whe
 noise is present compared to the absence of background noise, there was no significant difference
 in alpha peak power and frequency between conditions. However, LRTC of alpha oscillations
 exhibited a significant increase in speech with multitalker noise. Interestingly, this increase was
-accompanied by a negative correlation between alpha LRTC and exam scores, suggesting that
-temporal correlations in alpha activity facilitate perception and memory for speech in noise.
+accompanied by a negative correlation between alpha LRTC and exam scores. 
 Moreover, we observed increased synchronization activation of alpha peak frequency in temporal lobe regions, contrasting with higher alpha peak power activity predominantly in occipital lobe
 regions and comparatively less in temporal versus central and frontal areas. This suggests modulation in both task-relevant and irrelevant cortical areas. Although none of these variations reached
 significance when comparing speech alone versus speech with noise using nonparametric tests,
