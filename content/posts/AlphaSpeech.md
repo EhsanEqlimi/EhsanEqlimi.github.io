@@ -61,9 +61,9 @@ background noise, LRTC increased in occipital and temporal regions and decreased
 region. In theory, increased LRTC in occipital and temporal regions could facilitate suppression
 of task-irrelevant background audio and visual input. Conversely, decreased LRTC in frontal executive control areas could facilitate task-vigilance. Finally, when considering the average across
 channels, there was an overall increase in LRTC in the noisy condition.
-Analyzing the modulated alpha changes over time, measured by LRTC, inspired us to examine the evolving alpha power pattern between conditions. Although no significant difference was
+Analyzing the modulated alpha changes over time, measured by LRTC, inspired us to examine the evolving alpha power pattern between conditions [7]. Although no significant difference was
 found in average alpha power, temporal progression analysis using GAMM uncovered a significant
-increase in noisy conditions in the second part of the trend (after the first minute).
+increase in noisy conditions in the second part of the trend (after the first minute) [6].
 
 **Conclusion and Discussion**
 
@@ -94,7 +94,13 @@ synchronization in a memory task. Cognitive Brain Research, 7(4):493–501, 1999
 
 4 C. Peylo, Y. Hilla, and P. Sauseng. Cause or consequence? alpha oscillations in visuospatial
 attention. Trends in Neurosciences, 44(9):705–713, 2021.
+
 5 R. VanRullen. Perceptual cycles. Trends in cognitive sciences, 20(10):723–735, 2016.
+
+6 E. Eqlimi et al. Time course of EEG complexity reflects attentional engagement during listening to speech in noise. European Journal of Neuroscience 58.9 (2023): 4043-4069.
+
+7 E. Eqlimi et al. EEG correlates of learning from speech presented in environmental noise. Frontiers in Psychology 11 (2020): 542295.
+
 
 
 
