@@ -1,7 +1,7 @@
 ---
-title: Neurosignalist
+title: Alpha Oscillations During Speech Information Encoding
 draft: false
-weight: 1
+weight: 2
 # summaryLength: 10 # Set to the desired number of lines
 
 ---
