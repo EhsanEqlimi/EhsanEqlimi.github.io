@@ -16,8 +16,7 @@ alternative viewpoint transcends sensory distinctions, introducing a dimension t
 the confines of specific modalities. In 1999, a pivotal finding [3] emerges: upper alpha selectively
 synchronizes during maximal episodic short-term memory demands, challenging the conventional
 expectation of alpha desynchronization during mental activity at that time. One perspective on
-interpreting this type of finding involves inhibitory processes, confirmed through controlled ex-
-periments such as intracranial EEG and animal studies (e.g., [2]). Alpha oscillations act as a neural
+interpreting this type of finding involves inhibitory processes, confirmed through controlled experiments such as intracranial EEG and animal studies (e.g., [2]). Alpha oscillations act as a neural
 ’brake,’ increasing power coincides with reduced neuronal firing rate. The interpretation and evi-
 dence are grounded in segregation, suggesting that when a brain region is deemed task-irrelevant,
 the brain exhibits an increase in alpha activity, signaling subsequent inhibition in that region (sim-
