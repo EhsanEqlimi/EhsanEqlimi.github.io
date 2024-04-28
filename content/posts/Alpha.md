@@ -7,28 +7,29 @@ weight: 2
 ---
 
 
-** Introduction **
+**Introduction**
 
 While the prominence of brain alpha oscillations continues, ongoing advances diversify our un-
 derstanding of their functional roles, moving away from a unified perspective. This diversity is
 particularly pronounced in auditory contexts. Auditory alpha’s existence, EEG measurability, and
 its potential dependence on visual alpha collectively pose three layers of uncertainty. Moreover, an
 alternative viewpoint transcends sensory distinctions, introducing a dimension that extends beyond
-the confines of specific modalities. In 1999, a pivotal finding3 emerges: upper alpha selectively
+the confines of specific modalities. In 1999, a pivotal finding [3] emerges: upper alpha selectively
 synchronizes during maximal episodic short-term memory demands, challenging the conventional
 expectation of alpha desynchronization during mental activity at that time. One perspective on
 interpreting this type of finding involves inhibitory processes, confirmed through controlled ex-
-periments such as intracranial EEG and animal studies (e.g., 2). Alpha oscillations act as a neural
+periments such as intracranial EEG and animal studies (e.g., [2]). Alpha oscillations act as a neural
 ’brake,’ increasing power coincides with reduced neuronal firing rate. The interpretation and evi-
 dence are grounded in segregation, suggesting that when a brain region is deemed task-irrelevant,
 the brain exhibits an increase in alpha activity, signaling subsequent inhibition in that region (sim-
 ply, alpha synchronization causes net inhibition). However, whether this relationship is a cause or
-consequence remains a subject of debate.4
+consequence remains a subject of debate [4].
+
 Alpha oscillation research has also focused on distinguishing lower and upper frequencies—crucial
 for identifying individual alpha peaks. This focus aids in recognizing their manifestation in diverse
 brain regions during cognitive processes. Moreover, numerous studies emphasize alpha oscilla-
 tions’ role in parsing sensory information into (discrete) events, especially for visual stimuli (ref-
-erences in5). Therefore, alongside power, both frequency and phase are crucial in tasks including
+erences in [5]). Therefore, alongside power, both frequency and phase are crucial in tasks including
 those requiring perceptual parsing and temporal binding.
 Furthermore, in alpha oscillations EEG research, the emphasis is on parsing the brain’s re-
 sponse to repeated brief stimuli into distinct components, including phase-locked (evoked), non-
@@ -40,12 +41,10 @@ investigate alpha oscillation modulations during attentive listening to 5-minute
 without multitalker background noise. We also explore alpha oscillations’ predictive role in mem-
 ory and retention performance.
 
-** Methods **
+**Methods**
 
 The analyzed data are part of our extensive study on neural markers for attentive/inattentive lis-
-tening in noisy environments using single-trial EEG.1 Involving 23 English-speaking listeners, the
-1
-study comprised four 5-minute speeches without background noise and three speeches with mul-
+tening in noisy environments using single-trial EEG [1]. Involving 23 English-speaking listeners, the study comprised four 5-minute speeches without background noise and three speeches with mul-
 titalker background noise, covering various topics. Simultaneously, the 64-channel EEG data were
 continuously recorded during attentive listening. All seven speeches addressed different facets of
 Belgian culture, with participants having minimal prior knowledge. After an intermediate inter-
@@ -61,7 +60,7 @@ across different speech topics and assess the impact of background noise. Finall
 nonparametric cluster-based permutation testing across channels to assess channel influence on
 alpha manifestation.
 
-** Results **
+**Results**
 
 Although the behavioral analysis reveals a pronounced decline in exam scores when background
 noise is present compared to the absence of background noise, there was no significant difference
@@ -85,7 +84,7 @@ ine the evolving alpha power pattern between conditions. Although no significant
 found in average alpha power, temporal progression analysis using GAMM uncovered a significant
 increase in noisy conditions in the second part of the trend (after the first minute).
 
-** Conclusion and Discussion **
+**Conclusion and Discussion**
 
 The presented results support the role of alpha oscillations in top-down mechanisms when attend-
 ing and listening to speech. Although the mean alpha peak power and frequency roles have been
@@ -102,7 +101,7 @@ is that the first stage involves sensory processes and information gathering, wh
 reflects increased effort for higher-level cognitive engagement, including mnemonic binding and
 memory encoding.
 
-** References **
+**References**
 
 1 E. Eqlimi. Exploring neural markers modulated by learning from speech in environmental
 noise using single-trial EEG. PhD thesis, Ghent University, 2022.
