@@ -9,8 +9,7 @@ weight: 2
 
 **Introduction**
 
-While the prominence of brain alpha oscillations continues, ongoing advances diversify our un-
-derstanding of their functional roles, moving away from a unified perspective. This diversity is
+While the prominence of brain alpha oscillations continues, ongoing advances diversify our understanding of their functional roles, moving away from a unified perspective. This diversity is
 particularly pronounced in auditory contexts. Auditory alpha’s existence, EEG measurability, and
 its potential dependence on visual alpha collectively pose three layers of uncertainty. Moreover, an
 alternative viewpoint transcends sensory distinctions, introducing a dimension that extends beyond
@@ -44,8 +43,7 @@ ory and retention performance.
 **Methods**
 
 The analyzed data are part of our extensive study on neural markers for attentive/inattentive lis-
-tening in noisy environments using single-trial EEG [1]. Involving 23 English-speaking listeners, the study comprised four 5-minute speeches without background noise and three speeches with mul-
-titalker background noise, covering various topics. Simultaneously, the 64-channel EEG data were
+tening in noisy environments using single-trial EEG [1]. Involving 23 English-speaking listeners, the study comprised four 5-minute speeches without background noise and three speeches with multitalker background noise, covering various topics. Simultaneously, the 64-channel EEG data were
 continuously recorded during attentive listening. All seven speeches addressed different facets of
 Belgian culture, with participants having minimal prior knowledge. After an intermediate inter-
 val (45 minutes), participants underwent a written exam, which assessed their scores on all seven
