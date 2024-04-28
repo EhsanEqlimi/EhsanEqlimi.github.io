@@ -51,7 +51,7 @@ alpha manifestation.
 Although the behavioral analysis reveals a pronounced decline in exam scores when background
 noise is present compared to the absence of background noise, there was no significant difference
 in alpha peak power and frequency between conditions. However, LRTC of alpha oscillations
-exhibited a significant decline in speech with multi-talker noise. Interestingly, this decline was
+exhibited a significant increase in speech with multitalker noise. Interestingly, this increase was
 accompanied by a negative correlation between alpha LRTC and exam scores, suggesting that
 temporal correlations in alpha activity facilitate perception and memory for speech in noise.
 Moreover, we observed increased synchronization activation of alpha peak frequency in temporal lobe regions, contrasting with higher alpha peak power activity predominantly in occipital lobe
