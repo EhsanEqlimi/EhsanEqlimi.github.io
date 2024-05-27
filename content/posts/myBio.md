@@ -6,7 +6,7 @@ weight: 1
 
 ---
 
-My name is Ehsan. It is pronounced as [eh sa:n] in IPA and written as احسان in Persian/Farsi. I am a postdoctoral researcher in Computational Neuroscience at Ghent University, Belgium. I specialize in M/EEG analysis, rooted in signal processing and linear algebra. Lingustics, Philosophy, Music; My three favourite authors, Dostoevsky, Kafka, & Camus.
+My name is Ehsan. It is pronounced as [eh sa:n] in IPA and written as احسان in Persian/Farsi. I am a postdoctoral researcher in Computational Neuroscience at Ghent University, Belgium. I specialize in M/EEG analysis, rooted in signal processing and linear algebra. 
 
 I earned my Ph.D., M.Sc., & B.Sc. in Biomedical Engineering from Ghent University (in 2022), Tehran University (in 2013), & Sahand University of Technology (in 2010), respectively. I earned my Ph.D., M.Sc., & B.Sc. in Biomedical Engineering from Ghent University (in 2022), Tehran University (in 2013), & Sahand University of Technology (in 2010), respectively.
 
