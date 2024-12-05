@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Tutorial and Notes
 draft: false
 type: page
 menu:
