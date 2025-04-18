@@ -1,5 +1,5 @@
 ---
-title: Neuro-signalist
+title: (Neural) Signal Processing Engineer and Healthcare Data Scientist
 draft: false
 weight: 1
 # summaryLength: 10 # Set to the desired number of lines
