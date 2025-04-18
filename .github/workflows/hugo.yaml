@@ -1,7 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-- name: Download a Build Artifact
 
-  uses: actions/download-artifact@v4.2.1
 name: Deploy Hugo site to Pages
 
 on:
@@ -62,9 +60,11 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/"     
+      - name: Download a Build Artifact
+        uses: actions/download-artifact@v4.2.1     
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
