@@ -6,7 +6,7 @@ weight: 1
 
 ---
 
-My name is Ehsan, pronounced [eh saːn] in IPA and written as احسان in Persian/Farsi. I currently work as a data scientist in the Process and Quality Department at Azorg Hospital in Allast, Belgium. I hold a Ph.D. in Biomedical Engineering with a focus on neural signal processing.
+My name is Ehsan, pronounced [eh saːn] in IPA and written as احسان in Persian/Farsi. I currently work as a data scientist in the Process and Quality Department at Azorg Hospital in Aalst, Belgium. I hold a Ph.D. in Biomedical Engineering with a focus on neural signal processing.
 
 I received my Ph.D. from Ghent University in 2022, my M.Sc. from the University of Tehran in 2013, and my B.Sc. from Sahand University of Technology in 2010—all in Biomedical Engineering.
 
