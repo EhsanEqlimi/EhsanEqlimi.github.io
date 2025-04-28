@@ -10,7 +10,7 @@ menu:
 
 -Ceuleers D, Eqlimi E, Swinnen F, Baudonck N, Kestens K, Keppler H, Dhooge I (2025). [Localization of cortical
 responses to audiovisual, visual, and auditory presented speech using fNIRS : an exploratory study in normal-
-hearing adults](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-131214). B-ENT , 2025. doi:10.5152/B-ENT.2025.241716, [[PDF]](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-161357))
+hearing adults](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-131214). B-ENT , 2025. (doi:10.5152/B-ENT.2025.241716), [[PDF]](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-161357).
 
  -Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16159). European Journal of Neuroscince, [[PDF]](https://www.researchgate.net/publication/374638222_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise).
 
