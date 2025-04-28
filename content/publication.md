@@ -8,17 +8,17 @@ menu:
 ---
 **Journal papers** 
 
-Ceuleers D, Eqlimi E, Swinnen F, Baudonck N, Kestens K, Keppler H, Dhooge I (2025). [Localization of cortical
+-Ceuleers D, Eqlimi E, Swinnen F, Baudonck N, Kestens K, Keppler H, Dhooge I (2025). [Localization of cortical
 responses to audiovisual, visual, and auditory presented speech using fNIRS : an exploratory study in normal-
-hearing adults] (https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-161357).
+hearing adults](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-131214). B-ENT , 2025. doi:10.5152/B-ENT.2025.241716, [[PDF]](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-161357))
 
- Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16159). European Journal of Neuroscince, [[PDF]](https://www.researchgate.net/publication/374638222_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise).
+ -Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16159). European Journal of Neuroscince, [[PDF]](https://www.researchgate.net/publication/374638222_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise).
 
-Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2020). [EEG correlates of learning from speech presented in environmental noise.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full) Frontiers in Psychology, 11, 1850, [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full).
+-Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2020). [EEG correlates of learning from speech presented in environmental noise.](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full) Frontiers in Psychology, 11, 1850, [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full).
 
-De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech‐in‐noise processing.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477) European Journal of Neuroscience, 54(9), 7355-7376., [[PDF]](https://www.researchgate.net/publication/354776930_Parkinson's_disease_affects_the_neural_alpha_oscillations_associated_with_speech-in-noise_processing).
+-De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech‐in‐noise processing.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477) European Journal of Neuroscience, 54(9), 7355-7376., [[PDF]](https://www.researchgate.net/publication/354776930_Parkinson's_disease_affects_the_neural_alpha_oscillations_associated_with_speech-in-noise_processing).
 
-Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286, [[PDF]](https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis).
+-Eqlimi, E., Makkiabadi, B., Samadzadehaghdam, N., Khajehpour, H., Mohagheghian, F., & Sanei, S. (2019). [A novel underdetermined source recovery algorithm based on k-sparse component analysis.](https://link.springer.com/article/10.1007/s00034-018-0910-9) Circuits, Systems, and Signal Processing</a>. Circuits, Systems, and Signal Processing, 38, 1264-1286, [[PDF]](https://www.researchgate.net/publication/326814704_A_Novel_Underdetermined_Source_Recovery_Algorithm_Based_on_k-Sparse_Component_Analysis).
 
 ---------------------------------------------------------------------------------------------
 **Conference proceedings papers (Full paper)**
