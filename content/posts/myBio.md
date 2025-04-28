@@ -6,11 +6,11 @@ weight: 1
 
 ---
 
-My name is Ehsan, pronounced [eh saːn] in IPA and written as احسان in Persian/Farsi. I currently work as a data scientist in the Process and Quality Department at Azorg Hospital in Aalst, Belgium. I hold a Ph.D. in Biomedical Engineering with a focus on neural signal processing.
+ I currently work as a Data Scientist in the Process and Quality Department at AZORG Hospital (formerly OLV) in Aalst, Belgium. I hold a PhD in Biomedical Engineering, with a specialization in neural signal processing.
 
-I received my Ph.D. from Ghent University in 2022, my M.Sc. from the University of Tehran in 2013, and my B.Sc. from Sahand University of Technology in 2010—all in Biomedical Engineering.
+I obtained my PhD from Ghent University in 2022, my MSc from the University of Tehran in 2013, and my BSc from Sahand University of Technology in 2010, all in Biomedical Engineering.
 
-My Ph.D. research unveiled two main findings. First, I identified that distinct oscilations in the brain correlate with attentional engagement in speech perception, as reflected in their varied frequency features. Second, I developed a method to qunatify attentional engagemnet during speech listening by tracking the evolving complexity of EEG over time. For a more in-depth exploration, feel free to access my Ph.D. thesis:
+My PhD research uncovered two key findings. First, distinct brain oscillations were found to correlate with attentional engagement during speech perception, as reflected in their frequency-specific features. Second, I developed a method to quantify attentional engagement during speech listening by tracking the evolving complexity of EEG signals over time. For further details, my PhD dissertation, Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Ghent University, 2022), is available
  [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4), [[PDF]](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG).
 
 My CV is available [[here]](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link).
