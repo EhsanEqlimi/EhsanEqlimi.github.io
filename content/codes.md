@@ -40,7 +40,7 @@ We presnted a method for mixing matrix identification  and blind source separati
 
 ---
 **EEG micro-subspaces** 
-
+ Work is ongoing and publication is just around the corner!
 
 ---
 
