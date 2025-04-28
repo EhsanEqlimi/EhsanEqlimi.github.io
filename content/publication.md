@@ -8,7 +8,7 @@ menu:
 ---
 **Journal papers** 
 
--Ceuleers D, Eqlimi E, Swinnen F, Baudonck N, Kestens K, Keppler H, Dhooge I (2025). [Localization of cortical
+-Ceuleers D., Eqlimi E., Swinnen F., Baudonck N., Kestens K., Keppler H., Dhooge I. (2025). [Localization of cortical
 responses to audiovisual, visual, and auditory presented speech using fNIRS : an exploratory study in normal-
 hearing adults](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-131214). B-ENT , 2025. (doi:10.5152/B-ENT.2025.241716), [[PDF]](https://www.b-ent.be/en/localization-of-cortical-responses-to-audiovisual-visual-and-auditory-presented-speech-u-fnirs-an-exploratory-study-in-normal-hearing-adults-161357).
 
