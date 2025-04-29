@@ -6,9 +6,7 @@ weight: 1
 
 ---
 
- I currently work as a Data Scientist in the Process and Quality Department at AZORG Hospital (formerly OLV) in Aalst, Belgium. I hold a PhD in Biomedical Engineering, with a specialization in neural signal processing.
-
-I obtained my PhD from Ghent University in 2022, my MSc from the University of Tehran in 2013, and my BSc from Sahand University of Technology in 2010, all in Biomedical Engineering.
+ I hold a PhD in Biomedical Engineering, with a specialization in neural signal processing. I obtained my PhD from Ghent University in 2022, my MSc from the University of Tehran in 2013, and my BSc from Sahand University of Technology in 2010, all in Biomedical Engineering.
 
 My PhD research uncovered two key findings. First, distinct brain oscillations were found to correlate with attentional engagement during speech perception, as reflected in their frequency-specific features. Second, I developed a method to quantify attentional engagement during speech listening by tracking the evolving complexity of EEG signals over time. For further details, my PhD dissertation, Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Ghent University, 2022), is available
  [Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Doctoral dissertation, Ghent University)](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4), [[PDF]](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG).
