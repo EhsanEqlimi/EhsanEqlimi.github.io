@@ -24,7 +24,7 @@ I work on electrophysiological signal processing, focusing on EEG, brain oscilla
 -  MSc in biomedical engineering/neuroimaging  @ Tehran University, Iran 
 -  BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran
 
-## About me
+## Into
 -  I’m into "theory" and understanding "how" systems work. 
 -  I like reading about philosophy.
 -  Dostoevsky's books stay with me, and I keep revisiting them.
