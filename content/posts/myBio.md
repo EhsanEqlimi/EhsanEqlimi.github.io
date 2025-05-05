@@ -6,6 +6,10 @@ weight: 1
 
 ---
 
+
+I work on electrophysiological signal processing, focusing on EEG and brain oscillations. My background is rooted in time series analysis, applied linear algebra, and machine learning. I am also interested in how signal processing connects with auditory neuroscience and cognition. I'm currently a postdoctoral fellow in AI for electrophysiology. Previously, I’ve worked in EEG and speech signal processing during my PhD and postdoctoral research, and I have solid experience in neuroimaging data analysis, particularly fMRI. Earlier in my career, I worked as an industrial image processing engineer in the medical and biometric fields.
+
+<!--
  I hold a PhD in Biomedical Engineering with a specialization in neural signal processing, which I completed at Ghent University in 2022. I earned my MSc from the University of Tehran in 2013 and my BSc from Sahand University of Technology in 2010, both also in Biomedical Engineering.
 
 My PhD research uncovered two key findings. First, distinct brain oscillations were found to correlate with attentional engagement during speech perception, as reflected in their frequency-specific features. Second, I developed a method to quantify attentional engagement during speech listening by tracking the evolving complexity of EEG signals over time. For further details, my PhD dissertation, Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG (Ghent University, 2022), is available
@@ -25,7 +29,7 @@ For further exploration, please refer to the papers below:
 in realistic environmental noise](https://pub.dega-akustik.de/ICA2019/data/articles/000994.pdf), in 23rd International Congress on Acoustics (ICA), integrating 4th EAA Eu-
 roregio 2019, Aachen, Germany, [[PDF]](https://pub.dega-akustik.de/ICA2019/data/articles/000994.pdf).
 
-
+>--
 
 
 
