@@ -2,7 +2,7 @@
 title: Alpha Oscillations During Speech Information Encoding
 draft: false
 weight: 2
-# summaryLength: 1# Set to the desired number of lines
+# summaryLength: 3# Set to the desired number of lines
 
 ---
 
