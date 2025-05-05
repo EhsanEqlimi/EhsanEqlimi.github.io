@@ -5,7 +5,7 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I specialize in electrophysiological signal processing, focusing on EEG, brain oscillations, and neuroimaging (fMRI). My background includes neural time series analysis, applied linear algebra, machine learning, and the intersection of signal processing with auditory neuroscience and cognition.
+I work on electrophysiological signal processing, focusing on EEG, brain oscillations, and neuroimaging (fMRI). My background includes neural time series analysis, applied linear algebra, machine learning, and the intersection of signal processing with auditory neuroscience and cognition.
 
 <!--
 I work on electrophysiological signal processing, focusing on EEG and brain oscillations. My background is rooted in time series analysis, applied linear algebra, and machine learning. I am also interested in how signal processing connects with auditory neuroscience and cognition. I'm currently a postdoctoral fellow in AI for electrophysiology. Previously, I’ve worked in EEG and speech signal processing during my PhD and postdoctoral research, and I have solid experience in neuroimaging data analysis, particularly fMRI. Earlier in my career, I worked as an industrial image processing engineer in the medical and biometric fields.
