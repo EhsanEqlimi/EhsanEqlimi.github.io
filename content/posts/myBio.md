@@ -1,8 +1,8 @@
 ---
-title: (Neural) Signal Processing Engineer 
+title: Signal processing engineer
 draft: false
 weight: 1
-# summaryLength: 10 # Set to the desired number of lines
+# summaryLength: 90 # Set to the desired number of lines
 
 ---
 
