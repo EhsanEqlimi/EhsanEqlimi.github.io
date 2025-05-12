@@ -11,7 +11,7 @@ My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persi
 
 <!--
 My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, and written as اقلیمی. The "q" sound is similar to the French "r" or Arabic "gh/غ." In modern Persian, it is closer to /ɣ/ than /q/. Like my first name, which is associated with the sun, my surname also connects to nature. "اقلیم" (Eqlim) in Persian derives from the Greek word "κλίμα" (klima), meaning climate or region.
->--
+-->
  
 I work on electrophysiological signal processing, focusing on electroencephalography (EEG) and brain oscillations. My background is rooted in time series analysis, applied linear algebra, and machine learning. I am also interested in how signal processing connects with auditory neuroscience and cognition. I'm currently a postdoctoral fellow in AI for electrophysiology. Previously, I’ve worked in EEG and speech signal processing during my PhD and postdoctoral research, and I have solid experience in neuroimaging data analysis, particularly fMRI. Earlier in my career, I worked as an industrial image processing engineer in the medical and biometric fields. My CV is available [[here]](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link).
  
