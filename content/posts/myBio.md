@@ -5,8 +5,7 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I am a postdoctoral research fellow in electrophysiology and signal processing at EURECOM. My background includes EEG signal processing, applied linear algebra, and auditory/speech cognition.  Previously, I’ve worked in EEG and speech signal processing during my PhD and postdoctoral research, and I have solid experience in neuroimaging data analysis, particularly fMRI. 
-
+I am a postdoctoral research fellow in electrophysiology and signal processing at EURECOM. My background includes EEG signal processing, applied linear algebra, and auditory/speech cognition. I hold a PhD in biomedical engineering and EEG signal processing from Ghent University.
 
 
 ## Experience
