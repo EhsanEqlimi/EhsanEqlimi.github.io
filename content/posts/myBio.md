@@ -5,9 +5,9 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I am a postdoctoral research fellow in electrophysiology and signal processing at EURECOM. My background includes EEG signal processing, applied linear algebra, and auditory/speech cognition. I hold a PhD in biomedical engineering and EEG signal processing from Ghent University/imec in Belgium.
+I am a postdoctoral research fellow in signal processing at EURECOM. My background includes EEG signal processing, applied linear algebra, and auditory/speech cognition. I hold a PhD in biomedical engineering from Ghent University/imec in Belgium.
 
-
+<!--
 ## Experience
 - **Cur.** PostDoc fellow in AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), [AI4Health](https://github.com/robustml-eurecom)
 - **Prev.** PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)
