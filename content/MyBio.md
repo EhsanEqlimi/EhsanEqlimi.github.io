@@ -7,15 +7,17 @@ menu:
     weight: 1
 ---
 
-My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It is often mispronounced as [i:za:n] and misspelled as Eshan. A helpful cue is to think of it as "eh + sun," with the emphasis on "sun." Some even call me "Ehsun" for a sunnier twist. The name Ehsan means "benefaction" in Persian.
+My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It is often mispronounced as [i:za:n] and misspelled as Eshan. A helpful cue is to think of it as "eh + sun," with the emphasis on "sun."  I was born and raised in Tehran, Iran, and have lived in Ardebil, Tabriz, and again in Tehran before moving to Ghent, Belgium, in 2017.
 
+<!--
 My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, and written as اقلیمی. The "q" sound is similar to the French "r" or Arabic "gh/غ." In modern Persian, it is closer to /ɣ/ than /q/. Like my first name, which is associated with the sun, my surname also connects to nature. "اقلیم" (Eqlim) in Persian derives from the Greek word "κλίμα" (klima), meaning climate or region.
-
-I was born and raised in Tehran, Iran, and have lived in Ardebil, Tabriz, and again in Tehran before moving to Ghent, Belgium, in 2017. 
-
+>--
  
+I work on electrophysiological signal processing, focusing on electroencephalography (EEG) and brain oscillations. My background is rooted in time series analysis, applied linear algebra, and machine learning. I am also interested in how signal processing connects with auditory neuroscience and cognition. I'm currently a postdoctoral fellow in AI for electrophysiology. Previously, I’ve worked in EEG and speech signal processing during my PhD and postdoctoral research, and I have solid experience in neuroimaging data analysis, particularly fMRI. Earlier in my career, I worked as an industrial image processing engineer in the medical and biometric fields. My CV is available [[here]](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link).
+ 
+<!--
 Before joining the Data Science team at AZORG Hospital (formerly OLV) in Aalst, Belgium, I worked as a postdoctoral researcher at the [BEAMS group](https://beams.polytech.ulb.be/) at the [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Brussels. Prior to that, I held a postdoctoral position in the [WAVES-Acoustic group](https://www.waves.intec.ugent.be/) at [Ghent University (UGent)](https://www.ugent.be/en) and [imec](https://www.imec-int.com/en). I completed my PhD in biomedical engineering in 2022 at UGent-imec’s WAVES group. Before that, I began a PhD in biomedical engineering at the Department of Medical Physics and Biomedical Engineering at Tehran University of Medical Sciences, where I passed the comprehensive exam but later chose to discontinue. Earlier in my career, I worked as an Image Processing Scientist at [Sciences Green](https://www.sgi.ir/?lang=en) and [Matiran](https://matiran.ir/about-matiran/) in Tehran.
-
+>--
 
 
 When I am not analyzing brain signals or images, I spend time reading philosophy, theoretical physics, and mathematics. I always have music playing in the background. This is the playlist I listened to during my PhD at UGent: [Something is dancing in my brain](https://open.spotify.com/playlist/2ezdJcKNRJW1cQwrQqpxUx?si=233f1f68334c44c3). Here are two more playlists I created after completing my PhD: [Mr.Fox](https://open.spotify.com/playlist/6R801YrXceGUgg3GrErbCm?si=6165dac48a804517) and [Under shower with open eyes](https://open.spotify.com/playlist/07fgbpqkXvKX9g9NcWno4X?si=98ca0687f0e74bbe).
@@ -41,9 +43,11 @@ When I am not analyzing brain signals or images, I spend time reading philosophy
 - Dostoevsky's books stay with me, and I keep revisiting them.  
 - Music is always around me.  
 
+## My PhD research 
+
 My PhD research uncovered two key findings. First, distinct brain oscillations correlate with attentional engagement during speech perception, as reflected in their frequency-specific features. Second, I developed a method to quantify attentional engagement during speech listening by tracking the evolving complexity of EEG signals over time. My dissertation, *Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG* (Ghent University, 2022), is available [here](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4), [[PDF]](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG).
 
-My CV is available [[here]](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link).
+
 
 For further reading, see the following publications:
 
