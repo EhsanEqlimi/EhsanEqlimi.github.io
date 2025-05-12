@@ -17,10 +17,10 @@ I work on electrophysiological signal processing, focusing on electroencephalogr
  
 <!--
 Before joining the Data Science team at AZORG Hospital (formerly OLV) in Aalst, Belgium, I worked as a postdoctoral researcher at the [BEAMS group](https://beams.polytech.ulb.be/) at the [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Brussels. Prior to that, I held a postdoctoral position in the [WAVES-Acoustic group](https://www.waves.intec.ugent.be/) at [Ghent University (UGent)](https://www.ugent.be/en) and [imec](https://www.imec-int.com/en). I completed my PhD in biomedical engineering in 2022 at UGent-imec’s WAVES group. Before that, I began a PhD in biomedical engineering at the Department of Medical Physics and Biomedical Engineering at Tehran University of Medical Sciences, where I passed the comprehensive exam but later chose to discontinue. Earlier in my career, I worked as an Image Processing Scientist at [Sciences Green](https://www.sgi.ir/?lang=en) and [Matiran](https://matiran.ir/about-matiran/) in Tehran.
->--
+-->
 
 
-When I am not analyzing brain signals or images, I spend time reading philosophy, theoretical physics, and mathematics. I always have music playing in the background. This is the playlist I listened to during my PhD at UGent: [Something is dancing in my brain](https://open.spotify.com/playlist/2ezdJcKNRJW1cQwrQqpxUx?si=233f1f68334c44c3). Here are two more playlists I created after completing my PhD: [Mr.Fox](https://open.spotify.com/playlist/6R801YrXceGUgg3GrErbCm?si=6165dac48a804517) and [Under shower with open eyes](https://open.spotify.com/playlist/07fgbpqkXvKX9g9NcWno4X?si=98ca0687f0e74bbe).
+When I am not working on signal processing, I spend time reading philosophy, theoretical physics, and mathematics. I always have music playing in the background. This is the playlist I listened to during my PhD at UGent: [Something is dancing in my brain](https://open.spotify.com/playlist/2ezdJcKNRJW1cQwrQqpxUx?si=233f1f68334c44c3). Here are two more playlists I created after completing my PhD: [Mr.Fox](https://open.spotify.com/playlist/6R801YrXceGUgg3GrErbCm?si=6165dac48a804517) and [Under shower with open eyes](https://open.spotify.com/playlist/07fgbpqkXvKX9g9NcWno4X?si=98ca0687f0e74bbe).
 
 ## Experience
 - **Cur.** PostDoc fellow in AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), [AI4Health](https://github.com/robustml-eurecom)  
