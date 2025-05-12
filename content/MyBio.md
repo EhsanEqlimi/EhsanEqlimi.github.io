@@ -1,89 +1,52 @@
 ---
-title: My Bio  
-draft: false  
-type: page  
-menu:  
-  main:  
-    weight: 1  
+title: "My Bio"
+draft: false
+type: page
+menu:
+  main:
+    weight: 1
 ---
 
-My name is **Ehsan**, pronounced /eh saːn/ in IPA and written as **احسان** in Persian/Farsi. It’s often mispronounced as [iːzaːn] and misspelled as *Eshan*. Think of it as *“eh + sun”*, with the emphasis on *sun*—so I’m sometimes called *Ehsun* for a sunnier pronunciation :) Ehsan means *"benefaction"*, or more poetically, *"to do beautiful things."*
+My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It is often mispronounced as [i:za:n] and misspelled as Eshan. A helpful cue is to think of it as "eh + sun," with the emphasis on "sun." Some even call me "Ehsun" for a sunnier twist. The name Ehsan means "benefaction" in Persian, conveying the idea of doing beautiful things.
 
-My last name, **Eqlimi**, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, written as **اقلیمی**. The letter ‘q’ in Persian approximates the French ‘r’ or Arabic ‘gh’ (غ); in modern Persian, it often sounds closer to /ɣ/ than /q/. Just as my first name is linked to *sun*, my last name relates to *weather* or *climate*. The word "اقلیم" (*Eqlim*) is derived from the Greek *κλίμα* (*klima*), meaning *climate* or *region*.
+My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, and written as اقلیمی. The "q" sound is similar to the French "r" or Arabic "gh/غ." In modern Persian, it is closer to /ɣ/ than /q/. Like my first name, which is associated with the sun, my surname also connects to nature. "اقلیم" (Eqlim) in Persian derives from the Greek word "κλίμα" (klima), meaning climate or region.
 
----
+I was born and raised in Tehran, Iran, and have lived in Ardebil, Tabriz, and again in Tehran before moving to Ghent, Belgium, in 2017.  
+I previously worked as a postdoctoral researcher at the [BEAMS group](https://beams.polytech.ulb.be/) at [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Brussels. Before that, I held a postdoctoral position in the [WAVES-Acoustic group](https://www.waves.intec.ugent.be/) at [Ghent University (UGent)](https://www.ugent.be/en) and [imec](https://www.imec-int.com/en). Prior to my postdoctoral work, I was a PhD researcher in biomedical engineering at UGent-imec's WAVES group and defended my dissertation in 2022. Before that, I began a PhD in biomedical engineering at the Department of Medical Physics and Biomedical Engineering at Tehran University of Medical Sciences, where I passed the comprehensive exam but later chose to discontinue. Earlier, I worked as an Image Processing Scientist at [Sciences Green](https://www.sgi.ir/?lang=en) and [Matiran](https://matiran.ir/about-matiran/) in Tehran.
 
-I was born and raised in **Tehran, Iran**, and have lived in **Ardebil**, **Tabriz**, and again **Tehran** before moving to **Ghent, Belgium** in 2017.
+When I am not analyzing brain signals or images, I spend time reading philosophy, theoretical physics, and mathematics. I always have music playing in the background. This is the playlist I listened to during my PhD at UGent: [Something is dancing in my brain](https://open.spotify.com/playlist/2ezdJcKNRJW1cQwrQqpxUx?si=233f1f68334c44c3). Here are two more playlists I created after completing my PhD: [Mr.Fox](https://open.spotify.com/playlist/6R801YrXceGUgg3GrErbCm?si=6165dac48a804517) and [Under shower with open eyes](https://open.spotify.com/playlist/07fgbpqkXvKX9g9NcWno4X?si=98ca0687f0e74bbe).
 
-Previously, I was a postdoctoral researcher at the [**BEAMS Group**](https://beams.polytech.ulb.be/) at [**Université Libre de Bruxelles (ULB)**](https://www.ulb.be/en) in Brussels.  
-Before that, I worked at the [**WAVES-Acoustic Group**](https://www.waves.intec.ugent.be/) at [**Ghent University**](https://www.ugent.be/en) and [**imec**](https://www.imec-int.com/en), where I also completed my PhD in biomedical engineering in 2022.  
-Earlier, I had started a PhD in biomedical engineering at the **Tehran University of Medical Sciences**, where I passed the comprehensive exam before deciding to shift focus and pursue opportunities in Europe.
+## Experience
+- **Cur.** PostDoc fellow in AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), [AI4Health](https://github.com/robustml-eurecom)  
+- **Prev.** PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)  
+- **Prev.** PostDoc researcher in EEG signal processing @ [UGent](https://www.ugent.be/en)/[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)  
+- **Prev.** PhD researcher in EEG signal processing @ [UGent](https://www.ugent.be/en)/[imec](https://www.imec-int.com/en), [WAVES](https://www.waves.intec.ugent.be/)  
+- **Prev.** Researcher in signal processing and applied linear algebra @ [Tehran University](https://en.tums.ac.ir/en)  
+- **Prev.** Image processing engineer (segmentation) @ [NRP company](http://www.nrp-co.com/)  
+- **Prev.** Image processing engineer (biometrics) @ [Matiran company](https://matiran.ir/about-matiran/)  
+- **Prev.** Image processing engineer (biometrics) @ [Sciences Green/SGI company](https://sgi.ir/?lang=en)  
 
-Before academia, I worked as an **Image Processing Scientist** at [**Sciences Green (SGI)**](https://www.sgi.ir/?lang=en) and [**Matiran**](https://matiran.ir/about-matiran/) in Tehran, focusing on biometric and segmentation technologies.
+## Education
+- PhD in biomedical engineering/signal processing @ Ghent University, Belgium  
+- MSc in biomedical engineering/neuroimaging @ Tehran University, Iran  
+- BSc in electrical/biomedical engineering @ Sahand University of Technology, Iran  
 
----
+## Into
+- I’m into theory and understanding how systems work.  
+- I like reading about philosophy.  
+- Dostoevsky's books stay with me, and I keep revisiting them.  
+- Music is always around me.  
 
-When I’m not analyzing brain signals or medical images, I’m probably reading philosophy, theoretical physics, or mathematics—with music always in the background.  
-Here’s the playlist I listened to throughout my PhD: 🎧 [**Something is dancing in my brain**](https://open.spotify.com/playlist/2ezdJcKNRJW1cQwrQqpxUx?si=233f1f68334c44c3)  
-And here are some that followed: [**Mr.Fox**](https://open.spotify.com/playlist/6R801YrXceGUgg3GrErbCm?si=6165dac48a804517) & [**Under shower with open eyes**](https://open.spotify.com/playlist/07fgbpqkXvKX9g9NcWno4X?si=98ca0687f0e74bbe)
+My PhD research uncovered two key findings. First, distinct brain oscillations correlate with attentional engagement during speech perception, as reflected in their frequency-specific features. Second, I developed a method to quantify attentional engagement during speech listening by tracking the evolving complexity of EEG signals over time. My dissertation, *Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG* (Ghent University, 2022), is available [here](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4), [[PDF]](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG).
 
----
+My CV is available [[here]](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link).
 
-## 🧠 Experience
-- **Now:** Postdoctoral fellow in AI for electrophysiology  
-  @ [**EURECOM**](https://www.eurecom.fr/en), [**AI4Health**](https://github.com/robustml-eurecom)
-- **Before:**  
-  - Medical image processing @ [**ULB**](https://www.ulb.be/en), [**BEAMS**](https://beams.polytech.ulb.be/)  
-  - EEG signal processing @ [**UGent**](https://www.ugent.be/en)/[**imec**](https://www.imec-int.com/en), [**WAVES**](https://www.waves.intec.ugent.be/)  
-  - Signal processing & applied linear algebra @ [**Tehran University**](https://en.tums.ac.ir/en)  
-  - Image processing (biometrics/segmentation) @ [**SGI**](https://www.sgi.ir/?lang=en), [**Matiran**](https://matiran.ir/about-matiran/), [**NRP**](http://www.nrp-co.com/)
+For further reading, see the following publications:
 
----
+[1] Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2023). [Time course of EEG complexity reflects attentional engagement during listening to speech in noise](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16159). *European Journal of Neuroscience*. [[PDF]](https://www.researchgate.net/publication/374638222_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise)
 
-## 🎓 Education
-- PhD in Biomedical Engineering (Signal Processing) @ **Ghent University, Belgium**  
-- MSc in Biomedical Engineering (Neuroimaging) @ **Tehran University, Iran**  
-- BSc in Electrical/Biomedical Engineering @ **Sahand University of Technology, Iran**
+[2] Eqlimi, E., Bockstael, A., De Coensel, B., Schönwiesner, M., Talsma, D., & Botteldooren, D. (2020). [EEG correlates of learning from speech presented in environmental noise](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full). *Frontiers in Psychology*, 11, 1850. [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full)
 
----
+[3] De Groote, E., Eqlimi, E., Bockstael, A., Botteldooren, D., Santens, P., & De Letter, M. (2021). [Parkinson's disease affects the neural alpha oscillations associated with speech-in-noise processing](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477). *European Journal of Neuroscience*, 54(9), 7355–7376. [[PDF]](https://www.researchgate.net/publication/354776930_Parkinson's_disease_affects_the_neural_alpha_oscillations_associated_with_speech-in-noise_processing)
 
-## ✨ Interests
-- Curious about "how" systems work—especially in theory  
-- Avid reader of philosophy (with Dostoevsky always nearby)  
-- Fascinated by the crossroad of neuroscience, cognition, and signal processing  
-- Always surrounded by music  
-
----
-
-## 🧪 Research Highlights
-
-My PhD uncovered two key findings:
-1. **Distinct frequency-specific brain oscillations** correlate with **attentional engagement** during speech perception.
-2. I developed a method to **quantify engagement** by tracking **EEG signal complexity over time**.
-
-Read my dissertation:  
-📄 [**Exploring neural markers modulated by learning from speech in environmental noise using single-trial EEG**](https://biblio.ugent.be/publication/01GJ5HTSJYBWAG656CTYKSG7A4) ([PDF](https://www.researchgate.net/publication/365565540_Exploring_neural_markers_modulated_by_learning_from_speech_in_environmental_noise_using_single-trial_EEG))
-
-📄 My CV is available [**here**](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link)
-
----
-
-## 📝 Selected Publications
-
-1. Eqlimi et al., (2023).  
-   [**Time course of EEG complexity reflects attentional engagement during listening to speech in noise**](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16159), *Eur. J. Neurosci.*  
-   [[PDF]](https://www.researchgate.net/publication/374638222_Time_course_of_EEG_complexity_reflects_attentional_engagement_during_listening_to_speech_in_noise)
-
-2. Eqlimi et al., (2020).  
-   [**EEG correlates of learning from speech presented in environmental noise**](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full), *Front. Psychol.*  
-   [[PDF]](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01850/full)
-
-3. De Groote, Eqlimi et al., (2021).  
-   [**Parkinson's disease affects the neural alpha oscillations associated with speech-in-noise processing**](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.15477), *Eur. J. Neurosci.*  
-   [[PDF]](https://www.researchgate.net/publication/354776930_Parkinson's_disease_affects_the_neural_alpha_oscillations_associated_with_speech-in-noise_processing)
-
-4. Eqlimi et al., (2019).  
-   [**Evaluating potential EEG-indicators for auditory attention to speech in realistic environmental noise**](https://pub.dega-akustik.de/ICA2019/data/articles/000994.pdf), *23rd ICA, Aachen*  
-   [[PDF]](https://pub.dega-akustik.de/ICA2019/data/articles/000994.pdf)
-
----
+[4] Eqlimi, E., Botteldooren, D., Bockstael, A. [Evaluating potential EEG-indicators for auditory attention to speech in realistic environmental noise](https://pub.dega-akustik.de/ICA2019/data/articles/000994.pdf), in *23rd International Congress on Acoustics (ICA)*, Aachen, Germany, 2019. [[PDF]](https://pub.dega-akustik.de/ICA2019/data/articles/000994.pdf)
