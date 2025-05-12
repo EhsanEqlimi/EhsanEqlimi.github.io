@@ -16,8 +16,10 @@ defaultContentLanguage = "en"
     languageName = "فارسی"
     weight = 2
 
-socialIcons:
-      name: "github"
-      title: "View Source on Github"
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    
+[params]
+  # other params here if needed
+
+  [[params.socialIcons]]
+    name = "github"
+    title = "View Source on Github"
+    url = "https://github.com/adityatelange/hugo-PaperMod"
