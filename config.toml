@@ -17,10 +17,7 @@ defaultContentLanguage = "en"
     weight = 2
 
 socialIcons:
-    - name: github
-      title: View Source on Github
+    - name: "github"
+      title: "View Source on Github"
       url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
     
