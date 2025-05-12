@@ -14,3 +14,11 @@ defaultContentLanguage = "en"
     title = "احسان اقلیمی"
     languageName = "فارسی"
     weight = 2
+
+[[params.socialIcons]]
+  name = "Google Scholar"
+  url = "https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en"
+
+[[params.socialIcons]]
+  name = "Bluesky"
+  url = "https://bsky.app/profile/ehsan-eqlimi.bsky.social"
