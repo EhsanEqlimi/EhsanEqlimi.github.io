@@ -17,9 +17,8 @@ defaultContentLanguage = "en"
     weight = 2
 
 [params]
-  # other params here if needed
+  profileMode = true  # or homeInfoParams must be set
 
   [[params.socialIcons]]
     name = "github"
-    title = "View Source on Github"
-    url = "https://github.com/adityatelange/hugo-PaperMod"
+    url = "https://github.com/ehsaneqlimi"
