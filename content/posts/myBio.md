@@ -1,5 +1,5 @@
 ---
-title: Hi there
+title: About me 
 draft: false
 weight: 1
 summaryLength: 90 # Set to the desired number of lines
