@@ -2,6 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Ehsan Eqlimi'
 theme = 'PaperMod'
+socialIcons = 'true'
 
 # Enable multi-language support
 defaultContentLanguage = "en"
