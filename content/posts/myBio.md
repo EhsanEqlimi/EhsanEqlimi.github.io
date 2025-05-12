@@ -5,7 +5,7 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I work on electrophysiological signal processing, focusing on EEG, brain oscillations, and neuroimaging. My background includes neural time series analysis, applied linear algebra, machine learning, and the intersection of signal processing with auditory neuroscience and cognition.
+I am a postdoctoral research fellow in electrophysiology and signal processing at EURECOM. My background includes EEG signal processing, applied linear algebra, and auditory/speech cognition.
 
 
 
