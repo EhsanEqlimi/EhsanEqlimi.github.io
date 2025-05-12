@@ -7,7 +7,7 @@ menu:
     weight: 5
 ---
 
-** Alpha Oscillations During Speech Information Encoding**
+**Alpha Oscillations During Speech Information Encoding**
 
 This study examines how alpha oscillations, particularly long-range temporal correlations (LRTC), are affected by background noise during attentive listening to speech, using HD-EEG. Although alpha peak power and frequency did not show significant differences, the LRTC of alpha oscillations increased in noisy conditions and was negatively correlated with memory performance. These results suggest that the temporal dynamics of alpha oscillations play a more significant role than power in modulating cognitive effort and memory retention during complex auditory tasks. [Read more here](https://www.researchgate.net/publication/391667028_Alpha_Oscillations_During_Speech_Information_Encoding).
 
