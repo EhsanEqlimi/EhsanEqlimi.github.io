@@ -16,9 +16,3 @@ defaultContentLanguage = "en"
     languageName = "فارسی"
     weight = 2
 
-[params]
-  profileMode = true  # or homeInfoParams must be set
-
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/ehsaneqlimi"
