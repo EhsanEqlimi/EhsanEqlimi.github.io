@@ -7,7 +7,7 @@ menu:
     weight: 1
 ---
 
-My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It is often mispronounced as [i:za:n] and misspelled as Eshan. A helpful cue is to think of it as "eh + sun," with the emphasis on "sun."  I was born and raised in Tehran, Iran, and have lived in Ardebil, Tabriz, and again in Tehran before moving to Ghent, Belgium, in 2017.
+My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It is often mispronounced as [i:za:n] and misspelled as Eshan. A helpful cue is to think of it as "eh + sun," with the emphasis on "sun."  I was born and raised in Tehran, Iran, and have lived in Ardebil, Tabriz, and again in Tehran before moving to Ghent, Belgium, in 2017. Tehran, my beloved hometown, is where I feel at home. Persian is my mother tongue, and while I speak Azerbaijani Turkish fluently, I also understand Kurdish.
 
 <!--
 My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, and written as اقلیمی. The "q" sound is similar to the French "r" or Arabic "gh/غ." In modern Persian, it is closer to /ɣ/ than /q/. Like my first name, which is associated with the sun, my surname also connects to nature. "اقلیم" (Eqlim) in Persian derives from the Greek word "κλίμα" (klima), meaning climate or region.
