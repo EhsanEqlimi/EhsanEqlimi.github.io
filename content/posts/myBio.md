@@ -5,7 +5,7 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I am a postdoctoral research fellow in signal processing. My background includes EEG signal processing, applied linear algebra, and auditory/speech cognition. I hold a PhD in biomedical engineering from Ghent University/imec in Belgium.
+I am a postdoctoral research fellow in signal processing at [EURECOM](https://www.eurecom.fr/en) in [AI4Health](https://github.com/robustml-eurecom) Lab. My expertise spans EEG signal processing, applied linear algebra, and auditory and speech cognition. I hold a PhD in biomedical engineering from Ghent University and imec in Belgium.
 
 <!--
 ## Experience
