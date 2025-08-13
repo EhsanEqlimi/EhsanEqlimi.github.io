@@ -4,7 +4,7 @@ title: "داستان گرامافون"
 date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
-tags: ["فیزیک نظری"]
+tags: ["Notes to self]
 language: "fa"  # Language tag for Farsi content
 ---
 آن موقع تازه سی‌سالم شده بود که دورهٔ دکتری رو شروع کردم. در اوجِ سرخوشی به سر می‌بردم. با همه می‌جوشیدم. در دفترِ کارِ قشنگم، تو کُریدورها، سعی می‌کردم نگاهم تلاقی‌گاهِ نگاهِ دیگران باشد.
