@@ -1,6 +1,6 @@
 
 ---
-title: "کوانتومی فکر کردن"
+title: "داستان گرامافون"
 date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
