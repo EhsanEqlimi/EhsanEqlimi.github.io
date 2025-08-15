@@ -1,6 +1,7 @@
 
 ---
-title: "سلام"
+title: "علاقه‌مند به تئوری و پایه‌ها"
+
 date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
