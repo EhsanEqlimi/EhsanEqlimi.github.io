@@ -1,6 +1,9 @@
 
 ---
 title: "داستان سونیا"
+<p align="right">
+This text is right-aligned.
+</p>
 date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
