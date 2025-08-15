@@ -1,6 +1,6 @@
 
 ---
-title: "داستان گرامافون"
+title: "داستان سونیا"
 date: YYYY-MM-DD
 draft: false
 categories: ["Category"]
