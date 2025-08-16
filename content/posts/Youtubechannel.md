@@ -1,8 +1,9 @@
 ---
-title: Youtube channel: The fall of Vectors 
+title: The fall of vectors (youtube channel)
 draft: false
 weight: 1
 summaryLength: 90 # Set to the desired number of lines
+
 ---
 In this channel, I teach the core concepts of machine learning—signal processing, linear algebra, probability, information theory… and yes, a little bit of noise. This is just the beginning, and more content is coming soon. You can find the PDF of the lectures [here on Overleaf](https://www.overleaf.com/read/jkrnvmtygjvq#7bdfdd). In the future, I plan to add a full Jupyter Book version for interactive learning.
 
