@@ -1,5 +1,5 @@
 ---
-title: The fall of vectors (Youtube Channels)
+title: The fall of vectors, my youtube channel)
 draft: false
 weight: 1
 summaryLength: 90 # Set to the desired number of lines
