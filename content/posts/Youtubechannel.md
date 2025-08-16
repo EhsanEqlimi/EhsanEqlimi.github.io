@@ -9,3 +9,4 @@ In this channel, I teach the core concepts of machine learning, signal processin
 
 Inspired by *The Fall* by Albert Camus, the channel reflects a curiosity about how vectors—the building blocks of ML “fall” into patterns, signals, and representations, revealing the hidden structure in data.
 
+Youtube channel link: [The fall of vectors](https://www.youtube.com/@TheFallOfVectors)
