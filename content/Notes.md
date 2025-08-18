@@ -11,9 +11,9 @@ menu:
 - Static PDF file: [Lecture Notes](https://drive.google.com/file/d/1988qrCvkNBW9cMu4tK26waSTcn7tkrGc/view?usp=drive_link)  
 - Dynamic PDF file: You can access the lecture PDF [here on Overleaf](https://www.overleaf.com/read/jkrnvmtygjvq#7bdfdd). In the future, a full Jupyter Book version will be available for interactive learning.  
 
-Inspired by *The Fall* by Albert Camus, this channel explores how vectors—the building blocks of ML—“fall” into patterns, signals, and representations, uncovering hidden structures in data.  
+Inspired by *The Fall* by Albert Camus, this channel explores how vectors—the building blocks of ML “fall” into patterns, signals, and representations, uncovering hidden structures in data.  
 
-- YouTube channel:** [The Fall of Vectors](https://www.youtube.com/@TheFallOfVectors)
+- YouTube channel: [The Fall of Vectors](https://www.youtube.com/@TheFallOfVectors)
 
 
 
