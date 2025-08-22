@@ -5,7 +5,8 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I am a postdoctoral research fellow in signal processing at [EURECOM](https://www.eurecom.fr/en) in [AI4Health](https://github.com/robustml-eurecom) Lab. My expertise spans EEG signal processing, applied linear algebra, and auditory and speech cognition. I hold a PhD in biomedical engineering from Ghent University and imec in Belgium.
+Into the mathematics behind signal processing, machine learning, biostatistics, and time-series analysis.
+My academic focus also extends to EEG + fMRI, neuroimaging, computational neuroscience, and brain dynamics.
 
 <!--
 ## Experience
