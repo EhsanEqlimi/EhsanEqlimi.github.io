@@ -5,9 +5,11 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
+I am a postdoctoral fellow at Ghent University. My main interest is in the signal processing and mathematics underlying machine learning and theoretical neuroscience. My work centers on EEG and brain oscillations, where I develop methods to study auditory cognition and continuous mind states. With a background in biomedical engineering and data science, I focus on advancing analytical tools that connect brain signals with computation and theory.
+<!--
 Into the mathematics behind signal processing, machine learning, biostatistics, and time-series analysis.
 My academic focus also extends to EEG + fMRI, neuroimaging, computational neuroscience, and brain dynamics.
-
+-->
 <!--
 ## Experience
 - **Cur.** PostDoc fellow in AI for electrophysiology @ [EURECOM](https://www.eurecom.fr/en), [AI4Health](https://github.com/robustml-eurecom)
