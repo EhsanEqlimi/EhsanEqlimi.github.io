@@ -7,60 +7,35 @@ menu:
     weight: 3
 ---
 
-## k-Sparse Component Analysis via k-Subspace Clustering  
+**k-sparse component analysis via k-subspace clustering**  
 
-Sparse Component Analysis (SCA) and its generalization, k-Sparse Component Analysis (k-SCA), provide frameworks for blind source separation (BSS) when the underlying sources are sparse.  
+Sparse component analysis (SCA) and k-sparse component analysis (k-SCA) are both techniques used in signal processing and source separation. The main difference between SCA and k-SCA lies in their assumptions about the number of active sources: SCA assumes one active source at each time instant, whereas k-SCA allows for varying numbers of active sources represented by 'k'. In other words, SCA considers a single active source at a time, while k-SCA accommodates multiple active sources, making it more flexible for different scenarios. We presnted a method for mixing matrix identification and blind source separation that improves upon existing k-sparse source approaches, especially in noisy real-world situations with k=m-1 (m is the number of sensors). Explore my open-source projects and tools related to k-SCA below:  
 
-- In **SCA**, the model assumes that at most **one source** is active at each time index. This can be written as:
-  \[
-  \mathbf{x}(t) = \mathbf{A}\mathbf{s}(t), \quad \|\mathbf{s}(t)\|_0 \leq 1,
-  \]  
-  where \(\mathbf{x}(t) \in \mathbb{R}^m\) is the observed signal, \(\mathbf{A} \in \mathbb{R}^{m \times n}\) is the mixing matrix, and \(\mathbf{s}(t)\) is the source vector.  
+*Mixing matrix identification in k-SCA*  
 
-- In **k-SCA**, this assumption is relaxed to allow up to **k simultaneously active sources**:  
-  \[
-  \mathbf{x}(t) = \mathbf{A}\mathbf{s}(t), \quad \|\mathbf{s}(t)\|_0 \leq k,
-  \]  
-  which results in clustering the data points into **k-dimensional subspaces** spanned by subsets of columns of \(\mathbf{A}\).  
+- Repository 1: [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)  
+  -- This repository is well-suited for addressing small-scale problems with a high SNR. Our proposed algorithm is based on selective subspace search (S3) and demonstrates effectiveness in real-time scenarios.  
+  -- Papers related to this repository: [[k-SCA using S3]](https://ieeexplore.ieee.org/abstract/document/7146277), [[k-SCA for online applications]](https://ieeexplore.ieee.org/abstract/document/7362867).  
 
-This formulation links k-SCA directly to **subspace clustering** and opens the possibility of applying robust subspace detection and identification methods. Our work focuses on **mixing matrix identification** and **blind source separation** in the presence of noise, with particular emphasis on the regime \(k = m-1\), where \(m\) denotes the number of sensors.  
+- Repository 2: [k-SCA-UBI-Eusipco2023](https://github.com/EhsanEqlimi/k-SCA-UBI-Eusipco2023)  
+  -- This repository excels in addressing small-scale problems, showcasing robustness to noise, and consistently outperforming state-of-the-art k-subspace clustering methods. Our proposed method is based on the Gram-Schmidt process and random sample consensus (RANSAC).  
+  -- Paper related to this repository: [[RANSAC-driven Orthogonal Subspace Search]](https://arxiv.org/abs/2008.03739).  
 
----
+*Blind source separation in k-SCA*  
 
-### Mixing Matrix Identification in k-SCA  
-
-- **Repository 1:** [Sparse-UBI-S3-V2](https://github.com/EhsanEqlimi/Sparse-UBI-S3-V2)  
-  - Implements the **Selective Subspace Search (S3)** method for mixing matrix estimation.  
-  - Suited to small-scale problems with moderate to high SNR.  
-  - Demonstrates applicability in scenarios requiring efficient online estimation.  
-  - Publications: [k-SCA using S3](https://ieeexplore.ieee.org/abstract/document/7146277), [k-SCA for online applications](https://ieeexplore.ieee.org/abstract/document/7362867).  
-
-- **Repository 2:** [k-SCA-UBI-Eusipco2023](https://github.com/EhsanEqlimi/k-SCA-UBI-Eusipco2023)  
-  - Introduces a method combining **Gram–Schmidt orthogonalization** with **Random Sample Consensus (RANSAC)** for robust subspace detection.  
-  - Performs reliably in noisy conditions and outperforms standard k-subspace clustering algorithms in empirical studies.  
-  - Publication: [RANSAC-driven Orthogonal Subspace Search](https://arxiv.org/abs/2008.03739).  
+- Repository 3: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)  
+  -- Paper related to this repository: [[EigMEM-USR]](https://link.springer.com/article/10.1007/s00034-018-0910-9).  
 
 ---
 
-### Blind Source Separation in k-SCA  
-
-- **Repository 3:** [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)  
-  - Implements an approach based on **Unique Subspace Representation (USR)** combined with **Eigenvalue-based Memory (EigMEM)**.  
-  - Designed for effective blind source separation where sparse activation patterns can be exploited.  
-  - Publication: [EigMEM-USR](https://link.springer.com/article/10.1007/s00034-018-0910-9).  
+**EEG microstste recurrence**  
 
 ---
 
-## EEG Microstate Recurrence  
+**EEG micro-subspaces**  
 
-We are developing methods to characterize the **recurrence structure of EEG microstates**, focusing on quantifying stability, transitions, and temporal persistence. The objective is to analyze EEG dynamics beyond static microstate segmentation, by modeling recurrence intervals and their statistical distributions. This approach aims to provide a more complete representation of neural state dynamics and their variability across subjects and conditions.  
-
----
-
-## EEG Micro-Subspaces  
-
-Ongoing work involves the development of **micro-subspace analysis** for EEG, a framework that extends microstate analysis by allowing overlapping subspace representations. The method is designed to capture transient neural patterns that cannot be explained by mutually exclusive microstates. A manuscript detailing the mathematical formulation and empirical validation is forthcoming.  
+Work is ongoing and publication is just around the corner!  
 
 ---
 
-For inquiries or collaboration: [ehsan.eqlimi@outlook.com](mailto:ehsan.eqlimi@outlook.com)  
+For inquiries or assistance, please don't hesitate to [contact me](mailto:ehsan.eqlimi@outlook.com).  
