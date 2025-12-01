@@ -12,6 +12,5 @@ language: "fa"  # Language tag for Farsi content
 فلسفه × کتاب × ریاضیات × موسیقی × زبان × حیات‌وحش × قهوه
 
 اگر این موضوع‌ها برایتان آشنا یا جذاب‌اند، خوشحال می‌شوم سر بزنید.
-
-اگر این فضا برایتان آشناست، خوشحال می‌شوم سری بزنید:  
+ 
 [eq-line channel](https://www.youtube.com/@Ehsaneqlimi)

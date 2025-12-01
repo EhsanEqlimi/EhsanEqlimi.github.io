@@ -13,5 +13,4 @@ language: "fa"  # Language tag for Farsi content
 
 اگر این موضوع‌ها برایتان آشنا یا جذاب‌اند، خوشحال می‌شوم سر بزنید.
 
-اگر این فضا برایتان آشناست، خوشحال می‌شوم سری بزنید:  
 [eq-line channel](https://www.youtube.com/@Ehsaneqlimi)
