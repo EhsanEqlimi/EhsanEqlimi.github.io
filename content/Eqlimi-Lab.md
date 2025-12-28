@@ -33,7 +33,9 @@ Outside of research, he enjoys reading philosophy, watching insects and birds, l
 
 <small>Maryam is a biomedical engineering professional with years of experience in research, data analysis, and interdisciplinary collaboration within health-related fields. Her background includes working in research teams on complex datasets and contributing technical expertise to support scientific investigations. 
 
-In recent years, she has also developed strong skills in mentoring, coordination, and effective communication within collaborative environments. She is interested in contributing her skills to rigorous research projects within a team-based setting.</small>
+In recent years, she has also developed strong skills in mentoring, coordination, and effective communication within collaborative environments. She is interested in contributing her skills to rigorous research projects within a team-based setting.
+
+In her free time, she enjoys coaching, dancing, and continuous learning, particularly in areas related to human behavior and wellbeing.</small>
 
 ---
 
