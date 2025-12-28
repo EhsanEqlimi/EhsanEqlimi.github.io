@@ -1,12 +1,10 @@
 ---
 title: "Computational Neurosdynamics Lab"
-author: "Eqlimi Lab"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    toc: true
-    toc_depth: 6
-    toc_float: true
+draft: false
+type: page
+menu:
+  main:
+    weight: 6
 ---
 
 # Modeling the dynamics of continuous brain activity with EEG
