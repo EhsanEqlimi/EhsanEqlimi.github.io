@@ -17,10 +17,10 @@ We develop and apply computational methods to track neural dynamics moment by mo
 
 ## Team
 
-- Ehsan Eqlimi, PhD  | Head of Lab & Founder
+- **Ehsan Eqlimi, PhD | Head of Lab & Founder**
 
-- Nada Nouha Aderghal, MSc 
-Nada is an embedded systems engineer working on research in BCI, neuroscience, and neurology.
+- **Nada Nouha Aderghal, MSc**  
+<small>Nada is an embedded systems engineer working on research in BCI, neuroscience, and neurology.</small>
 ---
 
 ## Lab Ethos
