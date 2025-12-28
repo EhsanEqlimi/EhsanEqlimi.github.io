@@ -18,10 +18,14 @@ We develop and apply computational methods to track neural dynamics moment by mo
 ## Team
 
 - **Ehsan Eqlimi, PhD | Head of Lab & Founder**
-<small>Ehsan leads the lab, developing algorithms to study brain activity with EEG. He focuses on how the brain changes over time during natural tasks and spontaneous states, combining signal processing, machine learning, and neuroscience. He has a PhD in Biomedical Engineering and Signal Processing from Ghent University, Belgium. Outside of research, he enjoys reading philosophy, watching insects and birds, and listening to music.<small>
+<small>Ehsan leads the lab, developing algorithms to study brain activity with EEG. He focuses on how the brain changes over time during natural tasks and spontaneous states, combining signal processing, machine learning, and neuroscience. He has a PhD in biomedical engineering-signal processing from Ghent University, Belgium. Outside of research, he enjoys reading philosophy, watching insects and birds, and listening to music.<small>
 
 - **Nada Nouha Aderghal, MSc**  
 <small>Nada is an embedded systems engineer working on research in BCI, neuroscience, and neurology.</small>
+
+-Maryam Tahan, MSc
+<small>Maryam a biomedical engineering professional with years of experience in research, data analysis, and interdisciplinary collaboration within health-related fields. Her background includes working in research teams on complex datasets and contributing technical expertise to support scientific investigations. In recent years, she have also developed strong skills in mentoring, coordination, and effective communication within collaborative environments. She is interested in contributing my skills to rigorous research projects within a team-based setting.,small>
+
 ---
 
 ## Lab Ethos
