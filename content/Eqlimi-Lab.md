@@ -29,7 +29,7 @@ We develop and apply computational methods to track neural dynamics moment by mo
 - **Maryam Tahan, MSc**
 
 
-<small>Maryam is a biomedical engineering professional with years of experience in research, data analysis, and interdisciplinary collaboration within health-related fields. Her background includes working in research teams on complex datasets and contributing technical expertise to support scientific investigations. In recent years, she have also developed strong skills in mentoring, coordination, and effective communication within collaborative environments. She is interested in contributing my skills to rigorous research projects within a team-based setting.</small>
+<small>Maryam is a biomedical engineering professional with years of experience in research, data analysis, and interdisciplinary collaboration within health-related fields. Her background includes working in research teams on complex datasets and contributing technical expertise to support scientific investigations. In recent years, she has also developed strong skills in mentoring, coordination, and effective communication within collaborative environments. She is interested in contributing her skills to rigorous research projects within a team-based setting.</small>
 
 ---
 
