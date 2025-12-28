@@ -1,15 +1,17 @@
 ---
-title: "Eqlimi Lab"
-draft: false
-type: page
-menu:
-  main:
-    weight: 6
+title: "Computational Neurosdynamics Lab"
+author: "Eqlimi Lab"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
-# Computational Neurosdynamics Lab
+## Modeling the dynamics of continuous brain activity with EEG
 
-At Eqlimi Lab for Computational Neurosdynamics, we study how the brain evolves over time using continuous EEG recordings. Our focus is on capturing the dynamic patterns of neural activity during both spontaneous states, such as mind-wandering and resting-state, and structured, continuous tasks, including speech tracking, music listening, and naturalistic cognition.
+At **Eqlimi Lab**, we study how the brain evolves over time using continuous EEG recordings. Our focus is on capturing the dynamic patterns of neural activity during both spontaneous states, such as mind-wandering and resting-state, and structured, continuous tasks, including speech tracking, music listening, and naturalistic cognition.
 
 We develop and apply computational methods to track neural dynamics moment by moment, uncovering how information is processed, maintained, and integrated over time. By combining signal processing, time-series analysis, and modeling techniques, we aim to reveal the temporal structure of brain activity and its relation to behavior and perception. Our work emphasizes continuous, naturalistic paradigms rather than discrete trials, providing insight into the brain’s ongoing computations in real-world-like contexts.
 
