@@ -17,10 +17,10 @@ We develop and apply computational methods to track neural dynamics moment by mo
 
 ## Team
 
-Ehsan Eqlimi, PhD  | Lab Founder
+- Ehsan Eqlimi, PhD  | Head of Lab & Founder
 
 
-Nada Nouha Aderghal, MSc | PPhD Applicant in Neurotechnology and BCI
+- Nada Nouha Aderghal, MSc | PhD applicant in neurotechnology and BCI
 ---
 
 ## Lab Ethos
