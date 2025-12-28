@@ -26,7 +26,7 @@ Outside of research, he enjoys reading philosophy, watching insects and birds, l
 
 - **Nada Nouha Aderghal, MSc**  
 
-<small>Nada is an embedded systems engineer working on research in BCI, neuroscience, and neurology.</small>
+<small>Nada is an embedded systems engineer working on research in BCI, neuroscience, and neurology. She collaborates on projects that integrate AI and signal processing for brain-computer interface applications, involving system design, experiments, and data analysis. She is passionate about interdisciplinary research and developing innovative solutions in neuroscience and health technology. Outside of research, she enjoys walking in nature and participating in volunteer scientific clubs.</small>
 
 - **Maryam Tahan, MSc**
 
