@@ -7,7 +7,7 @@ menu:
     weight: 6
 ---
 
-## Computational neurosdynamics lab
+## Computational neurosdynamics 
 
 At Eqlimi lab, we study how the brain evolves over time using continuous EEG recordings. Our focus is on capturing the dynamic patterns of neural activity during both spontaneous states, such as mind-wandering and resting-state, and structured, continuous tasks, including speech tracking, music listening, and naturalistic cognition.
 
