@@ -17,8 +17,10 @@ We develop and apply computational methods to track neural dynamics moment by mo
 
 ## Team
 
-Our lab brings together researchers from neuroscience, signal processing, and computational modeling. We are a collaborative and interdisciplinary group, including postdocs, PhD students, and visiting scholars. Each member contributes unique expertise in EEG analysis, machine learning, neuroimaging, and cognitive neuroscience.
+Ehsan Eqlimi, PhD  | Lab Founder
 
+
+Nada Nouha Aderghal, MSc | PPhD Applicant in Neurotechnology and BCI
 ---
 
 ## Lab Ethos
