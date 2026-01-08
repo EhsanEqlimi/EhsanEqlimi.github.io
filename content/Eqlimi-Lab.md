@@ -9,11 +9,11 @@ menu:
 
 ## Computational neurosdynamics 
 
--We study how the brain evolves over time using continuous EEG signals during both spontaneous states, such as mind-wandering and resting-state, and structured, continuous tasks, including speech tracking, music listening, and naturalistic cognition.
+We study how the brain evolves over time using continuous EEG signals during both spontaneous states, such as mind-wandering and resting-state, and structured, continuous tasks, including speech tracking, music listening, and naturalistic cognition.
 
--We develop and apply computational methods to track neural dynamics, uncovering how information is processed, maintained, and integrated over time. By combining signal processing, time-series analysis, and modeling techniques, we aim to reveal the temporal structure of brain activity and its relation to behavior and perception.
+We develop and apply computational methods to track neural dynamics, uncovering how information is processed, maintained, and integrated over time. By combining signal processing, time-series analysis, and modeling techniques, we aim to reveal the temporal structure of brain activity and its relation to behavior and perception.
 
- -Our work emphasizes continuous, naturalistic paradigms rather than discrete trials, providing insight into the brain’s ongoing computations in real-world-like contexts.
+ Our work emphasizes continuous, naturalistic paradigms rather than discrete trials, providing insight into the brain’s ongoing computations in real-world-like contexts.
 
 ---
 
@@ -38,6 +38,14 @@ Outside of research, he enjoys reading philosophy, watching insects and birds, l
 In recent years, she has also developed strong skills in mentoring, coordination, and effective communication within collaborative environments. She is interested in contributing her skills to rigorous research projects within a team-based setting.
 
 In her free time, she enjoys coaching, dancing, and continuous learning, particularly in areas related to human behavior and wellbeing.</small>
+
+- ** Parisa Raouf, MSc, 
+She is a biomedical engineer specializing in computational neuroscience, EEG signal processing, and machine learning. Her research endeavors include developing data-driven models for neural signal analysis, with a particular emphasis on mental health applications and brain dynamics. She has employed signal processing techniques, statistical learning, and deep learning methodologies. Her research interests encompass fundamental and exploratory studies of brain activity, sparse representations, and the interrelation between neural dynamics and cognitive processes. More recently, her focus has broadened to include interpretable and explainable models for neural data analysis.
+
+Beyond her academic pursuits, she engages in activities such as playing badminton, cooking, baking, reading, and acquiring new theoretical knowledge, while contemplating the intersections between neuroscience and mathematics.
+
+
+
 
 ---
 
