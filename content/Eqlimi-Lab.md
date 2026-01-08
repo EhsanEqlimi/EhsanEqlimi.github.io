@@ -39,7 +39,8 @@ In recent years, she has also developed strong skills in mentoring, coordination
 
 In her free time, she enjoys coaching, dancing, and continuous learning, particularly in areas related to human behavior and wellbeing.</small>
 
-- ** Parisa Raouf, MSc, 
+- **Parisa Raouf, MSc**
+
 She is a biomedical engineer specializing in computational neuroscience, EEG signal processing, and machine learning. Her research endeavors include developing data-driven models for neural signal analysis, with a particular emphasis on mental health applications and brain dynamics. She has employed signal processing techniques, statistical learning, and deep learning methodologies. Her research interests encompass fundamental and exploratory studies of brain activity, sparse representations, and the interrelation between neural dynamics and cognitive processes. More recently, her focus has broadened to include interpretable and explainable models for neural data analysis.
 
 Beyond her academic pursuits, she engages in activities such as playing badminton, cooking, baking, reading, and acquiring new theoretical knowledge, while contemplating the intersections between neuroscience and mathematics.
