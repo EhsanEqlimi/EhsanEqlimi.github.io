@@ -30,6 +30,8 @@ Before joining the Data Science team at AZORG Hospital (formerly OLV) in Aalst, 
 
 When I am not working on signal processing, I spend time reading philosophy, theoretical physics, and mathematics. I always have music playing in the background. This is the playlist I listened to during my PhD at UGent: [Something is dancing in my brain](https://open.spotify.com/playlist/2ezdJcKNRJW1cQwrQqpxUx?si=233f1f68334c44c3). Here are two more playlists I created after completing my PhD: [Mr.Fox](https://open.spotify.com/playlist/6R801YrXceGUgg3GrErbCm?si=6165dac48a804517) and [Under shower with open eyes](https://open.spotify.com/playlist/07fgbpqkXvKX9g9NcWno4X?si=98ca0687f0e74bbe).
 
+My current playlist, which I carefully crafted to match my daily moods: [Dublin Train](https://open.spotify.com/playlist/1SUMkcg1On6LHdQK37zhlt?si=44cb8dd810d041b1)
+
 ## Experience
 - **Cur.** Signal processing+ML researcher
 - **Prev.** PostDoc researcher in medical image processing @ [ULB](https://www.ulb.be/en/ulb-homepage), [BEAMS](https://beams.polytech.ulb.be/)  
