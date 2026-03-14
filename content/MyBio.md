@@ -7,13 +7,21 @@ menu:
     weight: 1
 ---
 
-My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It is often mispronounced as [i:za:n] and misspelled as Eshan. A helpful cue is to think of it as "eh + sun," with the emphasis on "sun."  I was born and raised in Tehran, Iran, and have lived in Ardebil, Tabriz, and again in Tehran before moving to Ghent, Belgium, in 2017. Tehran, my beloved hometown, is where I feel at home. Persian is my mother tongue, and I speak Azerbaijani Turkish fluently and understand Kurdish.
+My name is Ehsan, pronounced /eh sa:n/ in IPA and written as احسان in Persian/Farsi. It is often mispronounced as [i:za:n] and misspelled as Eshan. A helpful cue is to think of it as "eh + sun," with the emphasis on "sun."  
 
 <!--
 My last name, Eqlimi, is pronounced /eqliːˈmiː/ or /eɣliːˈmiː/, and written as اقلیمی. The "q" sound is similar to the French "r" or Arabic "gh/غ." In modern Persian, it is closer to /ɣ/ than /q/. Like my first name, which is associated with the sun, my surname also connects to nature. "اقلیم" (Eqlim) in Persian derives from the Greek word "κλίμα" (klima), meaning climate or region.
 -->
  
-There’s no denying my inclination is more theoretical than applied. I work on electrophysiological signal processing, focusing on electroencephalography (EEG) and brain oscillations. My background is rooted in time series analysis, applied linear algebra, and machine learning. I am also interested in how signal processing connects with auditory neuroscience and cognition. I'm currently a postdoctoral fellow in AI for electrophysiology. Previously, I’ve worked in EEG and speech signal processing during my PhD and postdoctoral research, and I have solid experience in neuroimaging data analysis, particularly fMRI. Earlier in my career, I worked as an industrial image processing engineer in the medical and biometric fields. My CV is available [[here]](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link).
+My research is theoretical, with a strong emphasis on EEG signal processing. I draw on expertise in time-series analysis, linear algebra, and machine learning to investigate how signal processing inform auditory neuroscience and cognitive processes. 
+
+
+Previously, I’ve worked in EEG and speech signal processing during my PhD and postdoctoral research, and I have solid experience in neuroimaging data analysis, particularly fMRI. Earlier in my career, I worked as an industrial image processing engineer in the medical and biometric fields. My CV is available [[here]](https://drive.google.com/file/d/17nVbXWf7b-gvgL6D21OhB7SRpguKX8LV/view?usp=drive_link).
+
+
+ 
+
+
  
 <!--
 Before joining the Data Science team at AZORG Hospital (formerly OLV) in Aalst, Belgium, I worked as a postdoctoral researcher at the [BEAMS group](https://beams.polytech.ulb.be/) at the [Université Libre de Bruxelles (ULB)](https://www.ulb.be/en) in Brussels. Prior to that, I held a postdoctoral position in the [WAVES-Acoustic group](https://www.waves.intec.ugent.be/) at [Ghent University (UGent)](https://www.ugent.be/en) and [imec](https://www.imec-int.com/en). I completed my PhD in biomedical engineering in 2022 at UGent-imec’s WAVES group. Before that, I began a PhD in biomedical engineering at the Department of Medical Physics and Biomedical Engineering at Tehran University of Medical Sciences, where I passed the comprehensive exam but later chose to discontinue. Earlier in my career, I worked as an Image Processing Scientist at [Sciences Green](https://www.sgi.ir/?lang=en) and [Matiran](https://matiran.ir/about-matiran/) in Tehran.
