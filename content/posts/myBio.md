@@ -5,11 +5,11 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I am a postdoctoral fellow at Columbia University (Division of Systems Neuroscience, New York State Psychiatric Institute). I develop analytical methods for EEG and brain oscillations to study cogntive processes and neural dynamics using signal processing and mathematical modeling.
+I am a postdoc fellow at Columbia University (Division of Systems Neuroscience, New York State Psychiatric Institute). I develop analytical methods for EEG and brain oscillations to study cogntive processes and neural dynamics using signal processing and mathematical modeling.
 
 
 <!--
-Previously, I was a postdoctoral researcher at Eurecom (Sophia Antipolis, France), a data scientist at AZORG Hospital (Belgium), and held postdoctoral positions at Université Libre de Bruxelles and Ghent University, where I also completed my PhD.
+
 I am a postdoctoral fellow at Ghent University. My main interest is in the signal processing and mathematics underlying machine learning and theoretical neuroscience. My work centers on EEG and brain oscillations, where I develop methods to study auditory cognition and continuous mind states. With a background in biomedical engineering and data science, I focus on advancing analytical tools that connect brain signals with computation and theory.
 -->
 <!--
