@@ -5,7 +5,7 @@ weight: 1
 summaryLength: 90 # Set to the desired number of lines
 
 ---
-I am a postdoctoral fellow at Columbia University (Division of Systems Neuroscience, New York State Psychiatric Institute). I develop analytical methods for EEG and brain oscillations to study auditory processing, attention, and neural dynamics using signal processing and mathematical modeling.
+I am a postdoctoral fellow at Columbia University (Division of Systems Neuroscience, New York State Psychiatric Institute). I develop analytical methods for EEG and brain oscillations to study cogntive processes and neural dynamics using signal processing and mathematical modeling.
 
 
 <!--
