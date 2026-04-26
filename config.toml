@@ -35,7 +35,7 @@ Interested in fundamental research.
 
 
 [[params.socialIcons]]
-  name = "google-scholar"
+  name = "graduation-cap"
   title = "Google Scholar"
   url = "https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en"
 
@@ -60,7 +60,7 @@ Interested in fundamental research.
   url = "https://www.linkedin.com/in/ehsan-eqlimi-880b2948/?skipRedirect=true"
 
 [[params.socialIcons]]
-  name = "x"
+  name = "twitter"
   title = "X / Twitter"
   url = "https://x.com/ehsan_eqlimi"
 
@@ -70,7 +70,7 @@ Interested in fundamental research.
   url = "https://orcid.org/0000-0001-7108-9290"
 
 [[params.socialIcons]]
-  name = "ugent"
+  name = "university"
   title = "UGent explorer"
   url = "https://orcid.org/0000-0001-7108-9290"
 
