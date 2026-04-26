@@ -16,3 +16,7 @@ defaultContentLanguage = "en"
     languageName = "فارسی"
     weight = 2
 
+[params]
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/EhsanEqlimi"
