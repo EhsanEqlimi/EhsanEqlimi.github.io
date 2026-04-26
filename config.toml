@@ -17,9 +17,9 @@ defaultContentLanguage = "en"
     weight = 2
 [params]
 
-  [params.homeInfoParams]
-    Title = "Neuroimager"
-    Content = """
+[params.homeInfoParams]
+  Title = "Neuroimager"
+  Content = """
 👋 Welcome!
 
 Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
@@ -27,28 +27,28 @@ Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
 Interested in fundamental research.
 """
 
-  [[params.socialIcons]]
-    name = "github"
-    title = "My GitHub"
-    url = "https://github.com/EhsanEqlimi"
+[[params.socialIcons]]
+  name = "github"
+  title = "My GitHub"
+  url = "https://github.com/EhsanEqlimi"
 
 [[params.socialIcons]]
   name = "google-scholar"
   url = "https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en"
 
- [[params.socialIcons]]
-    name = "mastodon"
-    title = "My Mastodon"
-    url = "https://mastodon.social/@ehsan_eqlimi"
+[[params.socialIcons]]
+  name = "mastodon"
+  title = "My Mastodon"
+  url = "https://mastodon.social/@ehsan_eqlimi"
 
- [[params.socialIcons]]
+[[params.socialIcons]]
   name = "x"
   title = "X / Twitter"
   url = "https://x.com/ehsan_eqlimi"
 
 [[params.socialIcons]]
   name = "kofi"
-  title = "Buy me a Ko-Fi
+  title = "Buy me a Ko-Fi"
   url = "https://buymeacoffee.com/eqline"
 
 [[params.socialIcons]]
