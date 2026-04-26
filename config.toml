@@ -28,10 +28,7 @@ Interested in fundamental research.
 """
 
 
-[[params.socialIcons]]
-  name = "email"
-  title = "Email"
-  url = "mailto:eqlimi.ehsan@gmail.com"
+[
 
 
 [[params.socialIcons]]
@@ -44,10 +41,20 @@ Interested in fundamental research.
   title = "GitHub"
   url = "https://github.com/EhsanEqlimi"
 
+[params.socialIcons]]
+  name = "email"
+  title = "Email"
+  url = "mailto:eqlimi.ehsan@gmail.com"
+
 [[params.socialIcons]]
   name = "mastodon"
   title = "Mastodon"
   url = "https://mastodon.social/@ehsan_eqlimi"
+
+[[params.socialIcons]]
+  name = "twitter"
+  title = "X / Twitter"
+  url = "https://x.com/ehsan_eqlimi"
 
 [[params.socialIcons]]
   name = "bluesky"
@@ -59,10 +66,6 @@ Interested in fundamental research.
   title = "LinkedIn"
   url = "https://www.linkedin.com/in/ehsan-eqlimi-880b2948/?skipRedirect=true"
 
-[[params.socialIcons]]
-  name = "twitter"
-  title = "X / Twitter"
-  url = "https://x.com/ehsan_eqlimi"
 
 [[params.socialIcons]]
   name = "orcid"
@@ -78,6 +81,16 @@ Interested in fundamental research.
   name = "youtube"
   title = "YouTube"
   url = "https://www.youtube.com/@Ehsaneqlimi"
+
+[[params.socialIcons]]
+  name = "link"
+  title = "Goodreads"
+  url = "https://www.goodreads.com/user/show/21272376-ehsan-eqlimi"
+
+[[params.socialIcons]]
+  name = "spotify"
+  title = "Spotify"
+  url = "https://open.spotify.com/show/13HZkjzNw1zXANkZcFkPlf"
 
 [[params.socialIcons]]
   name = "kofi"
