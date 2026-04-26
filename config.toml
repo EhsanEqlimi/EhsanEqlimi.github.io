@@ -31,12 +31,8 @@ Interested in fundamental research.
 [[params.socialIcons]]
   name = "email"
   title = "Email"
-  url = "mailto:your.email@domain.com"
+  url = "mailto:eqlimi.ehsan@gmail.com"
 
-[[params.socialIcons]]
-  name = "cv"
-  title = "CV"
-  url = "/cv.pdf"
 
 [[params.socialIcons]]
   name = "google-scholar"
@@ -67,6 +63,16 @@ Interested in fundamental research.
   name = "x"
   title = "X / Twitter"
   url = "https://x.com/ehsan_eqlimi"
+
+[[params.socialIcons]]
+  name = "orcid"
+  title = "Orcid"
+  url = "https://orcid.org/0000-0001-7108-9290"
+
+[[params.socialIcons]]
+  name = "ugent"
+  title = "UGent explorer"
+  url = "https://orcid.org/0000-0001-7108-9290"
 
 [[params.socialIcons]]
   name = "youtube"
