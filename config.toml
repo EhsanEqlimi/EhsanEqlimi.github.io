@@ -22,7 +22,6 @@ defaultContentLanguage = "en"
   # ---------------------------
   # English homepage
   # ---------------------------
-  [languages.en.params.homeInfoParams]
     Title = "Neuroimager"
     Content = """
 👋 Welcome!
@@ -32,20 +31,6 @@ I am Ehsan (pronounced “eh-sun”). If easier, you can call me Sonny.
 Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
 
 Interested in fundamental research.
-"""
-
-  # ---------------------------
-  # Persian homepage
-  # ---------------------------
-  [languages.fa.params.homeInfoParams]
-    Title = "ا"
-    Content = """
-👋 خوش آمدید!
-
-من احسان  هستم. 
-روی تصویربرداری عصبی (EEG، fMRI)، پردازش سیگنال و یادگیری ماشین کار می‌کنم.
-
-علاقه‌مند به پژوهش بنیادی هستم.
 """
 
 # ---------------------------
