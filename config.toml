@@ -22,6 +22,7 @@ defaultContentLanguage = "en"
   # ---------------------------
   # English homepage
   # ---------------------------
+[params.homeInfoParams]
     Title = "Neuroimager"
     Content = """
 👋 Welcome!
