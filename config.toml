@@ -18,7 +18,7 @@ defaultContentLanguage = "en"
 [params]
 
   [params.homeInfoParams]
-    Title = "Your Name or Title"
+    Title = "Neuroimager"
     Content = """
 👋 Welcome!
 
@@ -32,3 +32,7 @@ Interested in fundamental research.
     title = "My GitHub"
     url = "https://github.com/EhsanEqlimi"
 
+ [[params.socialIcons]]
+    name = "mastodon"
+    title = "My Mastodon"
+    url = "https://mastodon.social/@ehsan_eqlimi"
