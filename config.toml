@@ -32,6 +32,10 @@ Interested in fundamental research.
     title = "My GitHub"
     url = "https://github.com/EhsanEqlimi"
 
+[[params.socialIcons]]
+  name = "google-scholar"
+  url = "https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en"
+
  [[params.socialIcons]]
     name = "mastodon"
     title = "My Mastodon"
