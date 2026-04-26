@@ -3,18 +3,19 @@ languageCode = 'en-us'
 title = 'Ehsan Eqlimi'
 theme = 'PaperMod'
 
-
-# Enable multi-language support
 defaultContentLanguage = "en"
+
 [languages]
   [languages.en]
     title = "Ehsan Eqlimi"
     languageName = "English"
     weight = 1
+
   [languages.fa]
     title = "احسان اقلیمی"
     languageName = "فارسی"
     weight = 2
+
 [params]
 
 [params.homeInfoParams]
@@ -27,12 +28,8 @@ Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
 Interested in fundamental research.
 """
 
-
-[
-
-
 [[params.socialIcons]]
-  name = "googlescholar"
+  name = "google-scholar"
   title = "Google Scholar"
   url = "https://scholar.google.com/citations?user=JEXmK9wAAAAJ&hl=en"
 
@@ -41,9 +38,9 @@ Interested in fundamental research.
   title = "GitHub"
   url = "https://github.com/EhsanEqlimi"
 
-[params.socialIcons]]
-  name = "email"
-  title = "Email"
+[[params.socialIcons]]
+  name = "envelope"
+  title = "Say hello"
   url = "mailto:eqlimi.ehsan@gmail.com"
 
 [[params.socialIcons]]
@@ -52,7 +49,7 @@ Interested in fundamental research.
   url = "https://mastodon.social/@ehsan_eqlimi"
 
 [[params.socialIcons]]
-  name = "twitter"
+  name = "x"
   title = "X / Twitter"
   url = "https://x.com/ehsan_eqlimi"
 
@@ -66,15 +63,9 @@ Interested in fundamental research.
   title = "LinkedIn"
   url = "https://www.linkedin.com/in/ehsan-eqlimi-880b2948/?skipRedirect=true"
 
-
 [[params.socialIcons]]
-  name = "orcid"
-  title = "Orcid"
-  url = "https://orcid.org/0000-0001-7108-9290"
-
-[[params.socialIcons]]
-  name = "university"
-  title = "UGent explorer"
+  name = "link"
+  title = "UGent Explorer"
   url = "https://orcid.org/0000-0001-7108-9290"
 
 [[params.socialIcons]]
@@ -93,6 +84,6 @@ Interested in fundamental research.
   url = "https://open.spotify.com/show/13HZkjzNw1zXANkZcFkPlf"
 
 [[params.socialIcons]]
-  name = "kofi"
+  name = "coffee"
   title = "Buy me a coffee"
   url = "https://buymeacoffee.com/eqline"
