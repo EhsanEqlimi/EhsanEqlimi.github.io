@@ -68,6 +68,11 @@ Interested in fundamental research.
   title = "UGent Explorer"
   url = "https://orcid.org/0000-0001-7108-9290"
 
+[[params.socialIcons]] 
+  name = "orcid" 
+  title = "Orcid"
+  url = "https://orcid.org/0000-0001-7108-9290"
+
 [[params.socialIcons]]
   name = "youtube"
   title = "YouTube"
