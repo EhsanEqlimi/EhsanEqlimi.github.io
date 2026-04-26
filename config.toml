@@ -23,7 +23,7 @@ defaultContentLanguage = "en"
   Content = """
 👋 Welcome!
 
-Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
+ I am Ehsan (pronounced “eh-sun”). If easier, you can call me Sonny. Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
 
 Interested in fundamental research.
 """
@@ -85,5 +85,5 @@ Interested in fundamental research.
 
 [[params.socialIcons]]
   name = "buymeacoffee"
-  title = "Buy me a ko-fi
+  title = "Buy me a ko-fi"
   url = "https://buymeacoffee.com/eqline"
