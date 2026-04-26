@@ -41,7 +41,7 @@ Interested in fundamental research.
     title = "My Mastodon"
     url = "https://mastodon.social/@ehsan_eqlimi"
 
--[[params.socialIcons]]
+ [[params.socialIcons]]
   name = "x"
   title = "X / Twitter"
   url = "https://x.com/ehsan_eqlimi"
