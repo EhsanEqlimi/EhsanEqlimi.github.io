@@ -40,3 +40,28 @@ Interested in fundamental research.
     name = "mastodon"
     title = "My Mastodon"
     url = "https://mastodon.social/@ehsan_eqlimi"
+
+-[[params.socialIcons]]
+  name = "x"
+  title = "X / Twitter"
+  url = "https://x.com/ehsan_eqlimi"
+
+[[params.socialIcons]]
+  name = "kofi"
+  title = "Buy me a Ko-Fi
+  url = "https://buymeacoffee.com/eqline"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  title = "LinkedIn"
+  url = "https://www.linkedin.com/in/ehsan-eqlimi-880b2948/?skipRedirect=true"
+
+[[params.socialIcons]]
+  name = "bluesky"
+  title = "Bluesky"
+  url = "https://bsky.app/profile/ehsan-eqlimi.bsky.social"
+
+[[params.socialIcons]]
+  name = "youtube"
+  title = "YouTube"
+  url = "https://www.youtube.com/@Ehsaneqlimi"
