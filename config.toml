@@ -51,6 +51,30 @@ Interested in fundamental research.
 [eq-line](https://www.youtube.com/@Ehsaneqlimi)
 """
 
+
+  [languages.fr]
+    title = "Ehsan Eqlimi"
+    languageName = "Français"
+    weight = 3
+
+    [languages.fr.params]
+      [languages.fr.params.homeInfoParams]
+        Title = "Chercheur en neuroimagerie"
+        Content = """
+👋 Bonjour
+
+Je suis Ehsan (prononcé /ɛhˈsɑːn/ ou « eh+sun »). Si c’est plus simple, vous pouvez m’appeler Sonny.
+
+Je travaille dans les domaines suivants :
+- Neuroimagerie (EEG, IRMf)
+- Traitement du signal
+- Apprentissage automatique
+
+- Doctorat en génie biomédical de l’Université de Gand (Belgique)  
+- Intéressé par la recherche fondamentale
+
+🎥 Chaîne YouTube persane : https://www.youtube.com/@Ehsaneqlimi
+"""
 # ---------------------------
 # Social icons (FIXED)
 # ---------------------------
