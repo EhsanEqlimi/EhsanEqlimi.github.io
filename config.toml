@@ -102,3 +102,8 @@ Interested in fundamental research.
   name = "buymeacoffee"
   title = "Buy me a ko-fi"
   url = "https://buymeacoffee.com/eqline"
+
+[[params.socialIcons]]
+  name = "ko-fi"
+  title = "Buy me a ko-fi"
+  url = "https://ko-fi.com/ehsaneqlimi"
