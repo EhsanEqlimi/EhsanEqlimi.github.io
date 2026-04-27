@@ -6,25 +6,16 @@ theme = 'PaperMod'
 defaultContentLanguage = "en"
 
 [languages]
+
   [languages.en]
     title = "Ehsan Eqlimi"
     languageName = "English"
     weight = 1
 
-  [languages.fa]
-    title = "احسان اقلیمی"
-    languageName = "فارسی"
-    weight = 2
-
-[params]
-
-
-  # ---------------------------
-  # English homepage
-  # ---------------------------
-[params.homeInfoParams]
-    Title = "Neuroimager"
-    Content = """
+    [languages.en.params]
+      [languages.en.params.homeInfoParams]
+        Title = "Neuroimager"
+        Content = """
 👋 Welcome!
 
 I am Ehsan (pronounced /ɛhˈsɑːn/ or “eh+sun”). If easier, you can call me Sonny.
@@ -32,6 +23,27 @@ I am Ehsan (pronounced /ɛhˈsɑːn/ or “eh+sun”). If easier, you can call m
 Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
 
 Interested in fundamental research.
+"""
+
+  [languages.fa]
+    title = "احسان اقلیمی"
+    languageName = "فارسی"
+    weight = 2
+
+    [languages.fa.params]
+      [languages.fa.params.homeInfoParams]
+        Title = "نوروايميجِر"
+        Content = """
+👋 سلام!
+
+من احسان اقلیمی هستم.
+
+در حوزه‌های زیر فعالیت می‌کنم:
+- نوروايميجينگ (EEG، fMRI)
+- پردازش سیگنال
+- یادگیری ماشین
+
+علاقه‌مند به پژوهش‌های بنیادی.
 """
 
 # ---------------------------
