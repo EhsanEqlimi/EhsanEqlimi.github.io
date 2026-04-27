@@ -6,6 +6,7 @@ menu:
   main:
     weight: 3
 ---
+<div style="text-align: justify;">
 
 **k-sparse component analysis via k-subspace clustering**  
 
@@ -25,7 +26,7 @@ Sparse component analysis (SCA) and k-sparse component analysis (k-SCA) are both
 
 - Repository 3: [Sparse-USR-EigMem](https://github.com/EhsanEqlimi/Sparse-USR-EigMem)  
   -- Paper related to this repository: [[EigMEM-USR]](https://link.springer.com/article/10.1007/s00034-018-0910-9).  
-
+</div>
 ---
 
 **EEG microstste recurrence**  
