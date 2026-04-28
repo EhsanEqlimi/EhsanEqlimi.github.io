@@ -16,13 +16,9 @@ defaultContentLanguage = "en"
       [languages.en.params.homeInfoParams]
         Title = "Neuroimager"
         Content = """
-👋 Welcome!
+I am Ehsan (pronounced /ɛhˈsɑːn/ or “eh+sun”), postdoc researcher in neuroimaging (EEG and fMRI), signal processing, machine learning. Broad interests across graph theory, sparsity, and optimization methods.
 
-I am Ehsan (pronounced /ɛhˈsɑːn/ or “eh+sun”). If easier, you can call me Sonny.
-
-Working on neuroimaging (EEG, fMRI), signal processing, and machine learning.
-
-Interested in fundamental research.
+Focused on fundamental research (in neural system).
 """
 
   [languages.fa]
