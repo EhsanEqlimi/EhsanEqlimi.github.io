@@ -7,7 +7,7 @@ categories: ["Category"]
 tags: ["فیزیک نظری"]
 language: "fa"  # Language tag for Farsi content
 ---
-نسخه پی دی اف: (/pdfs/Quantum.pdf)
+[Download a neat PDF](/pdfs/Quantum.pdf)
 
 مکانیک کوانتوم یک پروسیجر است
 
