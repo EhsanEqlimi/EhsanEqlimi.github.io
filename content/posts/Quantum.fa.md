@@ -7,7 +7,7 @@ categories: ["Category"]
 tags: ["فیزیک نظری"]
 language: "fa"  # Language tag for Farsi content
 ---
-[Download PDF version](https://drive.google.com/file/d/1DSrOrJmYsbXFlqCOZ1OGum2lSQytFFht/view?usp=sharing)
+[Download a PDF version](https://drive.google.com/file/d/1DSrOrJmYsbXFlqCOZ1OGum2lSQytFFht/view?usp=sharing)
 
 مکانیک کوانتوم یک پروسیجر است.
 
@@ -53,4 +53,6 @@ language: "fa"  # Language tag for Farsi content
 
 و حالا هیجان‌انگیزترین نکته‌ام: محیط مشاهده‌گری و مشاهده‌شونده، با محیط آماده‌سازی و اندازه‌گیری که قبلاً گفتیم، متفاوت است و یکی نیست. واقعاً سکسیه، نه؟
 
--->
+احسان اقلیمی
+
+پاییز 2023- خنت
