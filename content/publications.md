@@ -1,5 +1,5 @@
 ---
-title: Publication
+title: Publications
 draft: false
 type: page
 menu:
