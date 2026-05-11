@@ -7,6 +7,7 @@ tags: ["داستان های کوتاهم"]
 language: "fa"  # Language tag for Farsi content
 ---
 
+[PDF version](https://drive.google.com/file/d/1yTluz6Uy4Gu6FaFkdNAyjxdi2poJTyF4/view?usp=drive_link)
 
 *این داستان را وقتی بیست سالم بود نوشتم.*  
  *فردای روزی که «سه قطره خون» صادق هدایت را خواندم، با سرعت و با تمام ادراک جوشیده از درونم نوشتم.*  
