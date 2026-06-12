@@ -18,9 +18,10 @@ defaultContentLanguage = "en"
         Content = """
 👋 Welcome!
 
-I am Ehsan (pronounced /ɛhˈsɑːn/), a postdoctoral researcher in systems neuroscience at Columbia university and the New York State psychiatric institute, working on brain oscillatory dynamics.
+I am Ehsan (pronounced /ɛhˈsɑːn/), a posdoc researcher in systems neuroscience at Columbia university and [the New York state psychiatric institute](nyspi.org), working on brain oscillatory dynamics.
 
-I have broad interests in signal processing, graph theory, sparsity, optimization, and machine learning.
+
+I have broad interests in signal processing, graph theory, sparsity, optimization, and ML.
 
 My research focuses on fundamental questions in neural systems
 
