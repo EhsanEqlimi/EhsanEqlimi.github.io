@@ -14,7 +14,7 @@ defaultContentLanguage = "en"
 
     [languages.en.params]
       [languages.en.params.homeInfoParams]
-        Title = "Neuroimager"
+        Title = "Signal processing and brain dynmaics"
         Content = """
 👋 Welcome!
 
