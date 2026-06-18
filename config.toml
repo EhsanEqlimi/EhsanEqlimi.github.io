@@ -142,12 +142,6 @@ Je m’intéresse particulièrement aux questions fondamentales en neurosciences
   title = "Bluesky"
   url = "https://bsky.app/profile/ehsan-eqlimi.bsky.social"
 
-<!-- 
-[[params.socialIcons]]
-  name = "linkedin"
-  title = "LinkedIn"
-  url = "https://www.linkedin.com/in/ehsan-eqlimi-880b2948/?skipRedirect=true"
-  -->
 
 [[params.socialIcons]]
   name = "link"
