@@ -18,10 +18,12 @@ defaultContentLanguage = "en"
         Content = """
 
 
-I am Ehsan (pronounced /ɛhˈsɑːn/), a postdoc researcher studying brain oscillatory dynamics at [Columbia university](https://www.columbia.edu) and the [New York State psychiatric Iinstitute](https://www.nyspi.org) @[Haegens lab (brain rhythms)](https://www.haegenslab.com/people).
+I am Ehsan (/ɛhˈsɑːn/), postdoc researcher working on neural signal procesing at [Columbia university](https://www.columbia.edu). Cureently i am working on brain oscillatory dynamics at [New York State psychiatric Iinstitute](https://www.nyspi.org) @[Haegens lab (brain rhythms)](https://www.haegenslab.com/people).
 
 
- -Broad interests in signal processing, graph theory, sparsity, optimization, and ML. Passionate about fundamental questions (in neural systems)!
+ Broad interests in signal processing, graph theory, sparsity, optimization, and ML. 
+ 
+ Passionate about fundamental questions (in neural systems)!
 
 ---
 
