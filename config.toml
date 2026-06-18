@@ -18,7 +18,7 @@ defaultContentLanguage = "en"
         Content = """
 
 
-I am Ehsan (/ɛhˈsɑːn/), postdoc researcher working on neural signal procesing at [Columbia university](https://www.columbia.edu). I'm currently working on brain oscillatory dynamics at [New York State psychiatric Iinstitute](https://www.nyspi.org) @[Haegens lab (brain rhythms)](https://www.haegenslab.com/people).
+I am Ehsan (/ɛhˈsɑːn/), postdoc researcher working on neural signal procesing at [Columbia University](https://www.columbia.edu). I'm currently working on brain oscillatory dynamics at [New York State psychiatric Iinstitute](https://www.nyspi.org) @[Haegens lab (brain rhythms)](https://www.haegenslab.com/people).
 
  Broad interests in signal processing, graph theory, sparsity, optimization, and ML. 
  
@@ -55,18 +55,21 @@ I am Ehsan (/ɛhˈsɑːn/), postdoc researcher working on neural signal procesin
 
 ## 👋 سلام
 
-من احسان هستم. پژوهشگرِ پسادکترا در مرکزِ "اینریا" در دانشگاهِ رِنِ فرانسه.
+من احسان هستم، پژوهشگر پسادکترا در دانشگاه کلمبیا در زمینه پردازش سیگنال‌های عصبی. در حال حاضر روی دینامیک نوسانات مغزی و نقش آن‌ها در پردازش اطلاعات و رفتار کار می‌کنم.
 
-در این حوزه‌ها کار می‌کنم:
--  تصویر برداریِ عصبی (EEG، fMRI)
-- پردازش سیگنال
-- یادگیری ماشین
+### حوزه‌های کاری
+- 🧠 تصویر‌برداری عصبی (EEG، fMRI)
+- 📊 پردازش سیگنال
+- 🤖 یادگیری ماشین
 
-- دکترای مهندسی پزشکی از دانشگاهِ خِنتِ بلژیک  
-- علاقه‌مند به پژوهش بنیادی
+### تحصیلات
+- 🎓 دکترای مهندسی پزشکی از دانشگاه خنت، بلژیک  
 
-یه کانال یوتیوب فارسی هم دارم:  
-[eq-line](https://www.youtube.com/@Ehsaneqlimi)
+### علاقه‌مندی‌ها
+- 🔬 پژوهش‌های بنیادی در علوم اعصاب محاسباتی
+
+### کانال یوتیوب
+📺 [eq-line](https://www.youtube.com/@Ehsaneqlimi)
 """
 
 
@@ -81,12 +84,23 @@ I am Ehsan (/ɛhˈsɑːn/), postdoc researcher working on neural signal procesin
         Content = """
 👋 Bonjour
 
-Je suis Ehsan (prononcé /ɛhˈsɑːn/ ou « eh+sun »). Si c’est plus simple, vous pouvez m’appeler Sonny.
+Je suis Ehsan (/ɛhˈsɑːn/), chercheur postdoctoral en traitement des signaux neuronaux à [Columbia University](https://www.columbia.edu). Je travaille actuellement sur la dynamique des oscillations cérébrales au [New York State Psychiatric Institute](https://www.nyspi.org), en collaboration avec le [Haegens Lab (Brain Rhythms)](https://www.haegenslab.com/people).
 
-Je travaille en neuroimagerie (EEG, IRMf), en traitement du signal et en apprentissage automatique (machine learning).
+Mes intérêts de recherche portent sur le traitement du signal, la théorie des graphes, la parcimonie, l’optimisation et l’apprentissage automatique.
 
-- Doctorat en génie biomédical de l’Université de Gand (Belgique)  
-- Intéressé par la recherche fondamentale
+Je m’intéresse particulièrement aux questions fondamentales en neurosciences des systèmes.
+
+---
+
+## Expérience professionnelle
+
+- *Postdoctorant*, [Haegens Lab (Brain Rhythms)](https://www.haegenslab.com/people), Columbia University, New York, États-Unis [juin 2026 – aujourd’hui]  
+- *Postdoctorant*, AI4Health Lab, EURECOM, Sophia Antipolis, France [juil. 2025 – févr. 2026]  
+- *Data scientist*, AZORG (anciennement OLV) Hospital, Alost, Belgique [avr. 2023 – juin 2025]  
+- *Postdoctorant*, BEAMS Lab, Université libre de Bruxelles, Belgique [janv. 2023 – mars 2023]  
+- *Postdoctorant et doctorant*, WAVES Group, Université de Gand / imec, Belgique [nov. 2017 – déc. 2022]  
+- *Chercheur prédoctoral*, département de génie biomédical, Université de Téhéran, Iran [juil. 2015 – sept. 2017]  
+- *Ingénieur en traitement d’images*, industrie (Oloum-e-Sabz et Matiran), Téhéran, Iran [nov. 2011 – juin 2015]
 """
 # ---------------------------
 # Social icons (FIXED)
