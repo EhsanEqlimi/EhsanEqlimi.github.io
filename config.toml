@@ -17,13 +17,11 @@ defaultContentLanguage = "en"
         Title = "Hi!"
         Content = """
 
+I am mainly interested in developing signal processing and linear algebra-based algorithms for EEG analysis, with a focus on mathematical approaches to understanding brain dynamics.
 
-I am Ehsan (/ɛhˈsɑːn/), postdoc researcher working on neural signal procesing at [Columbia University](https://www.columbia.edu) and [New York State psychiatric Iinstitute](https://www.nyspi.org). I'm currently working on brain oscillatory dynamics at @[Haegens lab (brain rhythms)](https://www.haegenslab.com/people).
+Broad interests in signal processing, graph theory, sparsity, optimization, unsupervised learning, and machine learning.
 
- Broad interests in signal processing, graph theory, sparsity, optimization, and ML. 
- 
- Passionate about fundamental questions (in neural systems)!
-
+Passionate about fundamental question. 
 ---
 
 **Previous experience**
